@@ -1,3 +1,4 @@
+![image](images/reply_chef_icon.png) 
 # ReplyChef
 
 ![image](images/banner.png)
