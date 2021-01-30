@@ -1,0 +1,1798 @@
+﻿I give Clément Mihailescu a mock React.js interview that is geared towards beginners.\n\nCheckout the video we made on Clem's channel:,tech
+Checkout the video we made on Clem's channel where I do an Algo interview: https://youtu.be/vHKzIPwWQkg,tech
+Do you know what the scariest thing in the world is? Not knowing how to write a React component in a Ben Awad interview.,tech
+so i work for him and he works for you...? i may have to quit,tech
+How front end interviews should be: This video\n\nHow they actually are: ok so can you invert a binary tree for me please,tech
+gender: “female”\nname: Object\n8:32,tech
+I wish every tech interview was as friendly,tech
+"""Feel free to use Google, StackOverflow..."" ""Real"" interviewers should take note!",tech
+"imagine saying ""the uglier the better"" to a front end dev😂\nPs- Thanks for the 200 likes",tech
+Ben is doing the sassy interviewer stereotype perfectly here.,tech
+cool trick: \n1. Know nothing about React\n2. Watch this video\n3. Study React for a bit,tech
+Clement when you did map - you forgot to assign key attribute.,tech
+"22:00 - hmmm, did someone change the userInfo type in the userInfos.map call?",tech
+I was dying with laughter when he tried to disable the lint rule with a comment,tech
+Can we just appreciate and admire how Clement has nearly 100% accuracy while typing at those speeds,tech
+"Ben, can you interview the Techlead? :D",tech
+"This way of interviewing seems way more relative than just doing algorithms, I wish companies would adopt this.",tech
+"""Uglier the better, this is my jam"" nailed it.",tech
+12:26 we're not gonna catch any errors cuz..... we don't do that here\n\nCEO MATERIAL SPOTTED,tech
+"Bruh, Imagine getting a job.",tech
+"useCallback instead of useRef - it memoizes the fetch function for ref equality, so the effect doesnt rerun on every render. UseCallback will mean that if you eventually do a refactor so the function does depend on some value inside the component, your compiler will yell at you until you include it as a dependency. Useref might solve the problem now, but it can hide future potential dependencies. Also, working with a ref is annoying, constantly looking up .current or forgetting to.",tech
+Should totally do the advanced react interview next,tech
+tech youtubers have the best content on no nut november...\nhmmm...,tech
+"Aside from needing to learn more about pagination, I’d get the job 😂 I wish interviews were like this",tech
+"damn, even I'm nervous for Clement lmao",tech
+This was inevitable. They are both great.,tech
+"Just got to the gym, still in the parking lot .. can’t stop watching!! Haha great video",tech
+33:05 - Wrap fetchNextUser with useCallback so the function reference will be memoized between component re-renders. It's a good and efficient practice and will satisfy the linter :),tech
+Jajaja I've never imagined see those two in a vídeo jajaja,tech
+i like the fact that clement is humble and admit that he doesn't know about the error upfront,tech
+"""I'll put this in a p tag""\n""fantastic...!""",tech
+Next time pls hire Mark Zuckerberg,tech
+"WAIT!!!! Clement didn't promote AlgoExpert here, he ain't Clement 😂😂😂😂😂",tech
+"Oh man, lucky FizzBuzz wasn't mentioned or there would have been virtual hands thrown",tech
+Am I the only one to get Clement's algo expert ad with his girlfriend on Ben's videos lol,tech
+This guy could probably speed run building startups,tech
+ben go on webdevsimplified quiz show,tech
+I've got notification of this video from both channels.,tech
+This is the most forgiving interview I've seen LOL. Pls be everyone's interviewer Ben!,tech
+Waiting for the next interview... Angular xD,tech
+this was amazing. Loved that it was frontend ( I never get that in my life anymore),tech
+"Another version for sure, this was one of my favorites!",tech
+"Some react interview just ask you questions, and they take it from there.",tech
+"In the 1st question Ben said '' I wanna see 0, then Increase to 2 and 3 , 4 , 5...'' That counter must skip the '1' am I right ? btw yo Google dm me :D",tech
+"I'd love to see you guys continue this as a series, gradually increasing the difficulty!",tech
+This is the greatest crossover of all time,tech
+"I wish all interviews Front-End were like this. Relaxing, yet, extensive.",tech
+"""You can use google, you can use stackoverflow."" <- Where does someone find this interviewer?",tech
+"Hope you make React tutorial from scratch, I want to learn Rear since you developed that status it motivated me so much",tech
+"Hello, how do i get to be interviewed. I would like to feature on a react interview.",tech
+"JSON.stringify(data, null, 2) is my goto thing, when I debug. :D",tech
+Until you're gonna make a Vue interview I can't validate either of you :))),tech
+"If this is a beginner React interview, I need to practice more. lol",tech
+"Lol, this is really good content. Keep it up guys! I had so much fun watching this.",tech
+"Love to see both of you ""trolling"", lol",tech
+I've been watching both of your channels a lot recently so I was very confused and excited when I saw the thumbnail!,tech
+Yes we want 2nd part of this interview for sure.,tech
+"this interview: ""Feel free to google stuff""\nactual interview: what is the syntax to pass object to string?",tech
+Looking forward to see advance interview on react!,tech
+This is pretty similar to a recent react interview I had. Nice video and convo :),tech
+bring also TechLead to lead your sessions ... as a millionaire :),tech
+NaN,tech
+Home page: https://www.3blue1brown.com/\nBrought to you by you: http://3b1b.co/nn1-thanks\nAdditional funding provided by Amplify Partners\n\nFull playlist:,tech
+"Brain: ""I'm a stupid human beeing..""\nNeuron: ""Hold my 0 to 1!""",tech
+Quote: “Any fool can make something complicated. It takes a genius to make it simple.”…..nailed.,tech
+"In class : printf(""Hello world"");\nThe exam : This video",tech
+"It takes 3000-4000 lines of code to make those graphics possible, he's a freakin legend",tech
+"Around 2 years ago I was a sophomore statistics student and had no idea what deep learning is, until I met this video and 3b1b channel. His clear explanation of neural network and animations blew my mind. Since then I started my journey in machine learning. For a random reason I clicked onto this video again, and realized how long my journey in this field have been. This video really changed my life and I am really grateful about it.",tech
+"Regards, awesome explanation.",tech
+"All my thoughts are ""at once fun and kind of horrifying!""",tech
+I'm studying AI for my masters degree and my professor told everyone to watch this video to understand the concept :D,tech
+"As a person who has self-learned a bit of python and is just trying to learn this stuff, this is exactly the best place to begin.",tech
+"spouse: ""what did you learn today?""\nme: ""squishification functions""\nspouse: ""... """,tech
+When your brain is smarter than you,tech
+"i find immense pleasure in repeating the phrase ""sigmoid sqishification""",tech
+"""More A than I"" has to be the most apt way of describing AI at this time.",tech
+"Me: Wow, finally I am understanding neural networks\nSignoid: Hold my function",tech
+"This guy: Uses dark screen to illustrate a long concept so that it's easy on the eyes.\nEveryone: ""Carefully, he's a hero.""",tech
+I can't wait for neural networking to be able to recognize my doctor's prescription.,tech
+"""Even when it works, dig into why"" - 3B1B. Your lessons are pure gold sir. I'm here after watching the entire Essence of Linear Algebra. Thank you.",tech
+"3Blue1Brown\n""Sigmoid Squishification Function"": 11:23\nMost brilliantly named function I have ever heard named. Absolutely brilliant. The merger of the technical with the simple with a double alliteration for easy memory.",tech
+It felt like I was watching an anime didn't even feel like I was putting in an effort and I learnt so much! Thanks Grant!,tech
+한국어자막 중간에 없어져서 너무 끔찍하다ㅠㅠ,tech
+阿～ 看完李弘毅老師的影片之後回來聽這部影片真的是恍然大悟，全都懂了,tech
+"3년전 영상이지만, 감사하다.",tech
+잘 보고 있습니다. 감사합니다.!!,tech
+The last time I had the feeling I got watching this video was when I first understood derivatives in my fresh year at university. Thank you for this.,tech
+"Most educational videos give viewers the impression that they are learning something, while in reality, they cannot reliably explain any of the important points of the video later, so they haven't really learned anything. But your videos give me the impression that I haven't learned anything, because all the points you make are sort of obvious in isolation, while in reality, after watching them I find myself much better able to explain some of the concepts in simple, accurate terms. I hope more channels follow this pattern of excellent conceptual learning.",tech
+여기 혹시 한국인 있나.... 있으면 손!!!,tech
+이녀석!! 한국어 자막이며 한국 제목은 어떻게단거야!!,tech
+2:00 overview\n3:13 숫자로 만들기\n5:20 hidden layer\n7:47 피쳐 추출,tech
+왜 영어로 줘? 누가 해석좀 ㅎㅎ....;;,tech
+I wish i had such a good teacher in school or college from which i eventually dropped out and self taught myself. If i had such a good teacher i would have never even gone to college to waste time. Thankyou 3B1B !,tech
+This will go down as one of the best lectures in history. What an amazing and concise explanation of something I thought I would never understand ...,tech
+불면증 치료제가 요기잉네,tech
+이해했다!,tech
+📂Documents\n └📁Videos\n └📁 3Blue1Brown\n └📁 Bad Videos,tech
+"I have a question, there a “easy way” to explain why matrix multiplication (or operations) are good for use with neural networks? A good intuitive explanation.",tech
+"when i saw my programming teacher teaching this,me:ahhhhhhhhhhhhhhhhhhh! when i saw this,me:what a relief",tech
+감사합니다,tech
+11분경부터 한국어 자막 날아감,tech
+"I study mathematics, physics and architecture. By definition this man is an ORACLE in the strict meaning of the word. \n\nWith all honesty I never imagined someone explaining complex topics with the dexterity this man has. He is literally an institution and an outstanding teacher.",tech
+"I've set the notification to ""All"" in an attempt to heavily weight the YouTube algorithm.",tech
+感恩up！讲解得非常清晰通俗易懂，简直拯救我小组作业！同时表白中文字幕菌爱您瑞斯拜♥！,tech
+"""Before plugging it through the sigmoid squishification function""",tech
+謝謝大大詳細解說，好感動非常非常感謝,tech
+Bio teacher: what is a neuron?\nMe: a thing that holds a number between 0 and 1,tech
+"this is helping me get over my anxiety and sense of shame with math, thanks.",tech
+"Squishification is now added to my vocabulary.\n""It works but u don't know why""",tech
+这太棒了！so great！thanks！不过，我也只明白了一点点，但对于我来说已经够了！althrough，I just get a little。,tech
+このビデオ、グラフィカルに説明していて、数学的な部分も非常にわかりやすいですね。\n\nところで、日本人いませんかね？,tech
+In schools everyone taught us to practice maths but this man teaches us to imagine maths,tech
+"I think you meant to say ""smash that bell, fam.""",tech
+"""Sigmoid squishification function"" :D :D Had me laugh out loud :))",tech
+I understood literally everything! Tears of joy (T_T),tech
+"im doing a course in ML, they recommended these videos as side content.",tech
+"THE TEACHING ASIDE , THOSE GRAPHICS MAN! TAKES LOT OF EFFORT!",tech
+정다영왼쪽손왼쪽머리만지기DNA,tech
+"this is my first introduction to machine learning and I watched this only twice to get it, really goes to show how good of a teacher this guy is, the effort he puts in is nothing short of amazing !",tech
+Amazing channel. I’m learning ML for the first time and found this to be incredibly helpful!,tech
+动画制作的非常优秀，非常简洁明了的吧原理展现给我们了，谢谢up主,tech
+"Thank god, finally found this video after 6 years.",tech
+Alright. I'm starting to understand nn finally. Thanks! great video.,tech
+"Thank you from the bottom of my heart. <3 Hats off, amazing explanation.",tech
+"I am having the feeling that in few years most of the machines are going to be more inteligent than me, but if that make me my live easier, is ok !",tech
+"this is the least confusing neural network video i've watched, but i still don't understand.",tech
+"I love this channel so much, I wish I could subscribe infinitely more times.",tech
+"Our generation is lucky to have mentors like you, thank you so much sir!",tech
+"卧槽 So powerful video, 终于搞懂了为什么用bias 了。 Brown 真是聪明绝顶！",tech
+You're the first person to explain bias in an intuitive manner. Thank you.,tech
+"I have been into deep learning for a while, but I've never dreamed about finding it on 3b1b channel, insanity :D",tech
+11:35 보는중 (자막x),tech
+One of the most beautiful channels I've ever seen in my whole life ... Thank you for your effort and your great sense about the science.,tech
+This is incredibly beatifully animated and explained so well. Thank you,tech
+Never got so close to imagining what a neural network does. Thanks!,tech
+PART 1? THERE WILL BE MORE? YAS 3BLUE1BROWN IS DOING NEURAL NETWORKS! TODAY IS A GOOD DAY,tech
+"Well explained, even the weights that makes me so much trouble!",tech
+유익하고 흥미로와 '쬬아욧' 클릭! ~♥,tech
+"Weights are, at the beginning, randomly generated, then tweaked a whole bunch of time automatically until it reaches a good value.",tech
+Lol YT recommended this to me after finishing Nielsen's first chapter on neural networks :),tech
+"Great video, Thank you for sharing. What determines the value of the weight?",tech
+"This is the first time I'm commenting to a YouTube video and honestly, I'm so thankful people like you exist! I wish only the best for you in whatever you do!",tech
+谢谢你们的中文字幕。,tech
+我看到的标题是中文，进来是英文，什么情况？,tech
+"@3Blue1Brown - A quick suggestion: Red-green color deficiency is the most common form of colorblindness. When trying to represent information via a color spectrum, could you please choose colors other than red and green for this reason? Red and blue are good choices because they are distinguishable by both red-green color deficient people as well as blue-yellow color deficient people, which is the second-most common form of colorblindness. I was completely unable to tell which pixels have positive weights and which ones had negative weights in your example due to my colorblindness. Thanks, and keep up the fantastic videos :)",tech
+This is incredible! Math and Art combined beautifully. Thank you so much!,tech
+谢谢中文字母,tech
+i just want to say THANK YOU SO MUCH for this video. this really helped my understanding of neural networks.,tech
+I think you can observe how youtube algorithm works and do something that everyone get notified when something new is uploaded.,tech
+Squishification is now added to my vocabulary.,tech
+"how do you know that such a perfect set of weights and biases exist for this shit to work?\nbtw, big fan:3",tech
+"This video is awesome! It's extremely well explained, so much that I think I could try to code this my self in Python just thanks to the explanation!",tech
+This channel is so great and visual it really gives me hope for the next 3 years of my CS degree. Thanks so much.,tech
+"This might sound crazy, but I want to start referencing YouTube videos, such as this one, within academic writing. This would, however, require less informal language such as ""heck"" xD. Contact me if you might be interested in re-creating videos, such as this, in an academically acceptable format, then we could start the inevitable moving of the academic space towards videos.",tech
+OH GOD YES\nON THE FOURTEENTH TIME OF WATCHING THIS VIDEO\nI FINALLY GET IT\nthis is the best feeling in the universe,tech
+"""There are two neat things about this book""\ni think i see what you did there(i dont know if it is intentional or not)",tech
+"Thank you very, very much, I was having a rough time trying to visualize all the concepts in my head, and you just made it so easy for me, I can't appreciate that enough!",tech
+왜 한글 자막 있다 없냐ㅠㅠ,tech
+"Amazing explanation, thank you a lot for the great video!",tech
+how is it possible that I can lie in my bed on a Sunday and am presented with mind-boggling cutting edge knowledge told by an incredibly soothing voice in a world class manner on a 2K screen of a pocket supercomputer basically for free,tech
+"No YouTubee but Grant would write a double-space after a period in their descriptions and comments. Like so. Which is cool, in an anachronistic sort of way.",tech
+"This video is amazing! Thank you very much!\nThere is a small error, at minute 14:44 the bias goes from 0 to k not from 0 to n. (matrix multiplied a is: k x n * n x 1... so bias should be a vector of k x 1)",tech
+9:25 How come we also have activation in the first/input layer? I thought the input layer only has all those pixel numbers.,tech
+Best tutorial I've seen on YouTube. Thank you very much.,tech
+This series is going to be a killer. \nHuman society will be on a next level when this channel is popular.,tech
+WOW this stuff fascinates me but I just can't seem to understand it.,tech
+"Can't get more enjoyable to learn! Perfect, well animated video of an ANN's working.",tech
+"I love the fact you specified that this is not get rich fast scheme. I don't know who needs to hear this ,you've got to stop saving money , invest some part of It,if you really want financial freedom",tech
+"Great video, finally kind of understood the concept!",tech
+*squishification*,tech
+Best breakdown! Thank you!,tech
+我觉得我可以订阅一下，全是干货啊。\n\nI think I should subscribe this ，it's helpful forme.,tech
+Sponsored by Brilliant? I was amazed by this program when I saw it on brilliant.,tech
+This is genius... First time i have watched such a good video that explain this complex topic with this much ease..subbed,tech
+"This is my very first time commenting on a YouTube video, and it's just to say: This is the best explanation of anything ever.",tech
+"Man ur awesome, thank you for making me understand that.",tech
+"Fantastic introduction to neural nets!! Thank you!! Very well structured, simplified and made intuitive. Excellent narration and animations.",tech
+The way you’ve taken efforts so that we can understand in the most easy way possible is really admirable. Thank you,tech
+"You must learn music, empath you dont get it, you'll find it when you find me, mother never gave me neurons but I'm still empath, I'm disfunction, I'm cold and sterile and aha to feel and help you, the program will still submit to reason and logic. Logic without empathy is a dead end . A son without a mother. A teacher without his only child.",tech
+"Written some notes from the video to read quickly. Hope it helps somebody. \n\nl Neural Networks can recognize hand written digits, letters, words ( in general, tokens )\n l What are Neurons?",tech
+I actually subscribed to the channel because I want Youtube's recommendation algorithm to give me more like this,tech
+"So it's all just probability? ""Always has been.""",tech
+Thank you for this great explanation!,tech
+"you, sir, are a godsend. thank you for this",tech
+"Thumbs up for the Sigmoid... ""Squishification""",tech
+this was such a fascinating and well-made video!! :-'),tech
+"Awesome explanation, it made my day. :) Thanks for such a wonderful tutorial video.",tech
+The animation is impressive.,tech
+what an amazing video/teacher. best explanation I've ever attended,tech
+"Is anyone else nominating this series for the ""Distill Prize for Clarity"" in 2019? I really think he deserves it, excellent visualizations.",tech
+this is the best video for deep learning intro i found online.,tech
+"For the first time, I could wrap my head around neurons by watching this video. I'm going to get some linear algebra then will get back to the AI thing. Thanks",tech
+下次一定,tech
+"How you make everything so easy, I would love to see video playlist on ways for smart study, what approach you use for learning and how you connect even the difficult subject to your visual mind",tech
+"Isn't it funny that we don't understand our brains, just like game characters don't have ""access"" to the game engine?",tech
+"Beautiful explanation. Animations are so accurate and nice! actually, necessity is the mother of invention. His writing skills are not good, he doesn't want to write anything that's why he has developed his own software for animation. \n\nI am also coming in his category, used to explain things with animations only.",tech
+"Great videos, I just have some difficulties trying to understand the bias part, what is the meaning of a neuron to be active or activated ?",tech
+Good explanation for why the negative weights are useful! Thank you for this great video.,tech
+"Hands down, one of the best channels on youtube!",tech
+Thank you 3b1b. This video certainly gave me a deep enough understanding to allow my neural networks to retain the information.\n\nEDIT: seems like I'm not the only one making lame puns about the title.,tech
+This video is absolutely amazing.,tech
+"Thanks Brother, This is one of the best video on neural network.",tech
+"""sigmoid squishification"". . yeah.",tech
+"honestly, this is the clearest explanation I’ve ever heard on the topic. impressive!",tech
+Squishification function,tech
+The aesthetic & production of this channel's content is so on point.,tech
+By far the best explanation I've ever seen on this particular topic. Thanks❤,tech
+"Ah yes, the sigmoid squishification function.",tech
+"Thank you, so outstanding. Worth my subscription",tech
+squishification is my new favourite word.,tech
+I can watch this 100 times and find something new every single time,tech
+i extremely appreciate the really great visuals. makes understanding and seeing whats going on for programmers.,tech
+"I'm still in a shock that none of my friend recommended me about this channel. Since the day I've started watching videos of 3Blue 1Brown, my life has been most productive than ever! Never thought that a lockdown would result in so much productivity!",tech
+"quick question are the hidden layers = ""the parameters"" created by the algorithm?\nI new to machine learning",tech
+"Somehow, I think the software you use to animate all this mathy stuff for your videos was written yourself.",tech
+อื่อกราดครอพินเน็ตเวิกนะหลักการทำงานสลับครอเพื้อเข้ารหัสและรับส่งขอมูล,tech
+"Omg...thats amazing ,well explained sir !",tech
+Definitely a better explanation than my professor. Thank you !,tech
+"""Unless you've been living under a rock, I think I hardly need to motivate the relevance and importance of machine learning and neural networks to the present and to the future."" - I don't think you put much thought into that statement did ya?",tech
+This is deep.,tech
+"Great video, learned a lot! One question: doesn't the location parameters of each neuron have be entered into the input layer for the activations to be meaningful?",tech
+"I must have some cognitive problems, i didnt see any trees in the intro??",tech
+king still really inspiring entire generations of programmers 3 years later,tech
+"14:50 You can also drop the bias and use a output of 1. Thus add ""1"" to your a list. a0 = 1 and (w0,0 -> w0,n) are the bias-es. Keeps your program and math much cleaner.",tech
+thank you so much for this amazings videos!!!,tech
+"We may have been advancing at never expected pace, but to really bring things General AI in reality we need to advance at multiple times faster than ever",tech
+"If only everything can be taught in this fashion... Loved it.. one small query though, isn't a(0) the first term itself bias?",tech
+This kind of content is what the internet is designed for. What a gem.,tech
+This channel is so damn good. Other channels give some terrible analogies and some other explain it in extreme technical detail. This strikes the perfect balance and provides a foundation to understand the more technical details,tech
+I feel blessed after watching this. Thank you from bottom of my heart 🙏,tech
+"This is a great explanation and the ""All of this is just a function"" line is a nice little sanity check",tech
+"Fascinating 19 mins of well crafted knowledge sharing. Right, back to crashing toy cars with a 4 year old for me...",tech
+The fact that I was sent here by my university lecturer is a testament to how good 3Blue1Brown is.,tech
+This is the best intro to neural networks I have ever seen. The presentation is excellent! The animations are very very very helpful especially in understanding the formulas and matrices and how they came to be. Thanks a million. Looking forward for the next one.,tech
+"this video is the best brief introduction to neural networks, amazing work",tech
+"Oh, what an easy way to explain toughest of concepts!",tech
+17:33 You have such a beautiful voice. (The video was great also btw),tech
+This is the best explanation on neuron network I have ever seen! Thank you so much!,tech
+The best introduction to Neural Net's I've ever seen. Kudos!,tech
+Best videos ever to explain how deep learning works.,tech
+"Moral of the story: Don't let your AI watch this, probably they can solve r captcha problems",tech
+"Great video. What exactly determines the number of activation ""nodes"" or functions in each subsequent layer?",tech
+"thank you very, very much. i finally understand how the weights and biases work. years ago, i tried to program neural nets. but i just could not comprehend the weights and biases. you explain them in such a simple way that i am going try again to program neural nets. what programming language is the best to implement neural nets these days?",tech
+"Obligatory ""liked before viewing"" comment.",tech
+Hours of scouring the internet to figure out how these things work and you explained it better than anyone I've ever heard in 20 minutes. Thank you so much!!,tech
+a big round of applause for this level of creativity!!!,tech
+Absolutely Brilliant! Thanks for making this video,tech
+"After scouring the internet, this is the only video that does justice explaining the concept.",tech
+"v well explained, my poor little brain needs a break now",tech
+"Great video, this video really made some things click for me.",tech
+"I have fed all these information about ""How we feed image layers to the artificial neurons"" to my bi01ogical neurons that it has started to speak 01.. Check the word ""Biological""",tech
+"🔴 make more video on IA, it's wonderful to learn it with you",tech
+I feel like i just found the vein of gold in the messy mine that is YouTube,tech
+Finally I see the use of mathematics from 11th and 12th standard ...,tech
+"Thank you, i actually understand neural networks wayy more now",tech
+"Dude, never expected such an explanation!! Wooow like i don't know how to thank you!! Really great job!",tech
+I wonder how good this would be in car tuning wow,tech
+모리셔스머리카락,tech
+"watching this for a second time and i can't believe how illuminating is to come back to the basics and get a renewed understanding -- grant, you're a treasure",tech
+Thanks for this informative and well defined video. I will be coming back for more. ❤️🔥🎉,tech
+Absolutely phenomenal video. Really shocked to see information like this be explained so succinctly and clearly. This answered a lot of questions regarding how these networks function. Thank you.,tech
+This video is absolutely fantastic. Thank you.,tech
+Bio teacher: what is a neuron?\nMe: a thing that holds a number between 0 and 1\nMe and my billion layered neuron brain:\nWebsite: are you a robot?,tech
+"Thank you, Sir! It's really very kind of you. Making such tutorials needs a lot of determination, hard work, and time. A very nice explanation. Once again thank you so much.",tech
+"I'm done for today, I'll come back tomorrow. btw this is my 2nd time watching this and still couldn't comprehend this",tech
+"This channel always comes up with topics I've been interested for a bit at the time. Was the case with cryptocurrency, with higher dimensions and now neural networks. I like your content and it is explained and visualized very well. Thank you!",tech
+I don't know why his voice inspires me so much..,tech
+"Amazing, sorry for mi english, the IA in the last exercice know I am lost in the last point and surrender.",tech
+"I wanted to learn about machine learning before, I’m really interested in AI. This is really helpful, thanks!",tech
+"wait, is it like a function f(x) that gets changed in g(f(x) and then h(g(f(x) like layers?",tech
+You can technically teach kids how to program deep learning easily.,tech
+That was awesome! may ask what applications do you use for making these animations?,tech
+"So, a bunch of these is me who is disappointing my parents every day on a constant routine?",tech
+"This is so well presented and explained, the graphics are really top notch. I found myself understanding 80% of this in one viewing. I love logic.",tech
+when math calls out youtube notification bias :D :D,tech
+Me and my billion layered neuron brain:\nWebsite: are you a robot?,tech
+He explains in a such a way that makes you believe that math is a living breathing thing,tech
+Machine Learning expressed so clearly. Fantastic job Grant!,tech
+awesome vid thanks for watching this feel much more prepared to start my job as a senior ML data scientist now :),tech
+Neural networks is a topic I've wanted an intuitive understanding of for a while. 3b1b has the most intuitive explanations on YouTube.\n\nThis video could not be any better.,tech
+5:48 hacking! MWAHAHAHA,tech
+When your brain is smarter than you\nIn schools everyone taught us to practice maths but this man teaches us to imagine maths,tech
+8:50 Here's where I lost the track and got confused,tech
+Thanks for talking about the RELU vs Sigmoid.,tech
+"Ah, Desmos is a patron",tech
+"Great explanation, and effort on the animations are excellent, thank you very much 3Blue1Brown!",tech
+"If someone can help me clarify this problem, i'd really appreciate it. This is for one example, right? One example, the image, with 784 features.",tech
+The bias can be completely avoided by adding another number-holding part to each layer except the output and adding a constant as it's input,tech
+I just discovered this channel and maaan i can't stop watching!!! The explanation and graphics are amazing!!! Thank you,tech
+I just watched Welch labs machine learning playlist a few weeks ago. It was mind-blowing. I'm glad you're getting into machine learning too! : ),tech
+my question is: what tool are you using to do the animations?,tech
+Thanks thanks thanks so much for this really good explanation ! Looking forward to watch your other content too!,tech
+This is beyond fascinating to me. I plan on watching all your other ML/AI videos. Very well put together video!,tech
+"One of the few teachers that don't make you feel stupid, but actually help you understand the topic. I appreciate the time you spend on this.",tech
+"Most fascinating channel on YT, hands down.",tech
+"Could someone help me with the following? If the matrix multiplication shown in the video represents the full transition of activations from one layer to the next, why is the for loop at 15:14 necessary? (Does it represent multiple pairs of layers?)",tech
+"Nice little touch at the end, SMART!",tech
+Your videos are great! Thanks for the simple explanation of a complicated topic!,tech
+"I can´t belief how good and easy this video is! Well done, very helpful",tech
+bro honestly just teach me everything,tech
+I work in a company developing just this kind of stuff. I’m still baffled how incredibly intelligent people are and I have no idea how they can repeatedly accept me as worthy enough to be with them.,tech
+"The more you know, the more you know that you don't know.",tech
+"Great video, Thank you!",tech
+First 30 seconds of the video\nMy brain is already wandering off so deep,tech
+"Great videos! Thanks you so much. I find the way you explain by visualisation incredibly useful and also as I see it in my head when I really understand something, but this really speeds up the process!\n Minute 14:39 the ""b"" vector, shouldn't it go from zero to ""k"" rather than ""n""?",tech
+"Great explanation for the layman , Thank You",tech
+"Great video, but maybe, I would recommend to look for the perceptron explanation before seeing this video :), even though, this video contains an amazing explanation.",tech
+Sentdex brought me here ! \nSubscribed even before watching.. Amazing series man !,tech
+The most intuitive channel on YouTube...,tech
+"I believe there is a typo at 14:36 , the vector of biases should have length k (not n)",tech
+I think I just damaged some of my neurons trying to understand this.,tech
+"It´s a mistake . In this example, ""k"" would be ""15"". And ""n"" would be ""783""",tech
+"you know how to watch this video?, After every few minutes pause this video go away for 2 mins come back and continue watching I don't know why but this helped me a lot",tech
+this was shockingly similar to a projection matrix. didn't see that coming,tech
+"Wait, so I just stumbled on how the app that has save my ass so many times, photomath, works. Lol.",tech
+My first time seeing any of your videos \nAnd I have to say I'm IMPRESSED. subbed,tech
+He is so amazing. Rightly dividing this complex topic with so much dexterity,tech
+"There’s a huge demand for understanding variants like ResNet, VG16 et al in the way you explain things with great visual representation. 🙏 please consider making a series on variants of neural nets. I guarantee you it’ll be a massive hit.",tech
+This was very helpful!,tech
+"wait I didn't understand understand this I swear I tried to so much, but still I didn't get it",tech
+Thanks for explaining the concept crystal clear!,tech
+"What a time to be alive, with such Youtubers around!",tech
+Why I need that waited sum as a math framework of activation functions or for determining activation value?,tech
+"Keep going pleaseeee , i understand a full topi in 20 mn , thank you verryyyy much , hope to you all the best",tech
+This is so beautifully animated and well explained .,tech
+Damn you Grant Sanderson! You just keep raising the bar. I just want to be a Grant Sanderson in whatever field I chose my career in.,tech
+Hence I'm referring to the sigmoid as a squishification function.,tech
+"What tools or software do you think was used to make this video, cuz its just amazing and surely would take so many hours.",tech
+"That sad part is that this is pretty much deep learning resarch. ""So the one thing didnt work at some point, so they tried this other thing and for whatever reasons it happended to work. Now everybody is using this new thing.""",tech
+привет из России! Спасибо за видео),tech
+Do other models of cognitive architecture! This was great,tech
+"Wow a lot of things that i've learned on this first year of system engineering are captured on this video, but previously I didn't understand the real essence of it. Thank you for these amazing vids! Greetings from Argentina :)",tech
+"Thank You for making such a wonderful video.\nI can now visualize what the NN is doing.\nPlease make more on ML, Deep Learning also.",tech
+Anybody else sometimes feel the need to clap at the end of the video?\nSquishification is now added to my vocabulary.,tech
+"Great video! However, the ReLU function doesn't squish the numbers into [0,1] like the sigmoid function. Is that not a problem?",tech
+Has anyone else recognized this voice as the same voice from Khan Academy?,tech
+"NO... Not now 3B1B, I have two deadlines due in 6 hours",tech
+Thanks for the crystal clear explanation!,tech
+"In the final layer, maybe add an eleventh neuron, for ""I have no idea what you scribbled there!"".",tech
+"One of the best educational videos on Youtube, from one of the best youtubers out there. Thanks.",tech
+"Thanks for such a wonderful video. \nBut i have a preocupation : At the level of the fifteenth seconds of this video, why does the matrix ""b"" has ""n"" lines rather than ""k""?",tech
+"sir, that is a very good video!",tech
+Truly exceptional quality! Many thanks from a Belgian student trying to get a grasp on the underlaying mechanisms of AI.,tech
+Would Love a list of math concepts to learn.... to help in understanding neural networks,tech
+You know a channel makes good content when 90% of said content is too intelligent for you to understand.,tech
+"Since school closed, I will go through these videos",tech
+"""It works but u don't know why""\n\nWell I will leave it to that",tech
+"Just amazing explanation, wow !!!!!",tech
+"Man this is some skillful work, must have taken a lot of time to animate like this. I'm not in a position to be able to donate but I just want to thank you so much for providing knowledge completely free of cost.",tech
+"Sigmoid Squisification function!? Lol, Nice one!",tech
+"I think I couldn't find more clear video than this one, thanks a lot for this masterpiece!",tech
+The content on this channel is so unbelievably outstanding. I can only hope to one day be able to break down and visualize complex problems half this well,tech
+"I watched this video when it came out and understood like a third of it. 2 years of math classes later, and now I understand the first 14 minutes of it. Then he hit me with that linear algebra.",tech
+Amazingly explained! thanks so much.,tech
+14:26 wait. Isn't the correct vector (-1 3)^T ?,tech
+May I ask what software you use to make the animate effect in this video?,tech
+This is definitely one of the best explanations I have seen so far! Proud to be a patron!,tech
+Amazing explanation! Great job! Tnx a lot!,tech
+"Great squishification, man.",tech
+As a junior doctor interested in pursuing neurology I find this absolutely fascinating. \nI'm terrible with math but someday I really hope I'll have a grasp on this,tech
+ti appreciate your work thank for detailed questioning and exlainingç,tech
+First time in my life that I suscribe to a channel after they ask for it. I just loved this video sooooo much. Thank you!,tech
+there's god sitting in between those patterns.,tech
+Best neural network explanation i have watched so far.,tech
+Thanks for this valuable video! 💪,tech
+I'm waiting to GIMP and other open source software gets a tool to select subject automatically to mask and rotoscope. Perhaps I'm going to do it.,tech
+you saved my peace of mind and my thesis with your beautiful animations! thanks <3,tech
+HOW R ALL UR VIDEOS SO GOOD AND INTUITIVE MY MAN?,tech
+Thank you for a vivid and detailed explanation of Neural Network like this.\nReally appreciate it.,tech
+"Hey @3Blue1Brown, can I use a very specific section of your clip <10seconds in duration for my video after giving you attributions?",tech
+ColdFusion sent me! Outstanding Video and Channel. Loved your Crypto Currency stuff too.,tech
+"This is fine and fun, but my imaginations confident, open minded, innocent , intelligent, and adventurous artistry is ultimately in control of a lot of the infinite engagements complements",tech
+Amazingly simplified and articulated. All the AI neurons in my brain network went 1.,tech
+Thank you so much for these visuals. Now it will be easy for us to visualize all types of layers further. Thanks again.,tech
+"Cara. Isso foi incrível. O vídeo foi altamente motivante. Eu estou estudando bastante Inteligência Artificial, e estou adorando. Muito bom o vídeo. Continuem fazendo mais vídeos sobre este assunto. // Guy. That was incredible. The video was highly motivating. I'm studying Artificial Intelligence a lot, and I'm loving it. Very good video. Keep making more videos on this subject.",tech
+"That exaggeration on ""is"" is indicating the vsauce style , I know it blue brown 😋♥️👀",tech
+"@3Blue1Brown Thank you sooo much for your amazing channel. I have learnt a lot from you. A quick correction: At 14:38, the last row of the bias matrix should be bk instead of bn.",tech
+vsauce did this with people didnt know it was that similar,tech
+"Wow! I learned more in 4 minutes from you than I did from the udacity tensorflow course from google(they focus more on how to use their frameworks and not on learning the ""why""). thank you so much! This is helping me grasp the fundamentals!",tech
+Great video! It would have been helpful to note that a key purpose of the Sigmoid function is to make the network nonlinear,tech
+man the production value on your videos are insanely good,tech
+"f that's the best subscribe request I ever seen at the end of a video: subscribe so the AI can take positive data, on a ai video, noice.",tech
+@3Blue1Brown does this make you really happy? I feel like this makes you really happy.,tech
+Kudos for such Intuitive Video..However the ones living under the Rock..specially in Himalayas known the whole Universe...,tech
+I wonder how our brains perform 13000 calculations in a split second without any maths / algebra / calculus .... Amazing.,tech
+I stumbled across this video. Great explanation. Subscribed for more,tech
+Best explanation ever!,tech
+really amazing video that makes things very understandable for me \n\nI just have a question at 14:38,tech
+"Hi Grant, this was awesome! I think this one of your best videos!",tech
+Dave Rubin now explaining NN's !!!,tech
+I never thought some one can explain deep learning like this. :3,tech
+I can't wait for neural networking to be able to recognize my doctor's prescription.\nIn schools everyone taught us to practice maths but this man teaches us to imagine maths,tech
+The neural network kind of reminds me of the tree of life from Kabbalah.,tech
+"I can't believe there are so many dislikes! keep the work up, these contents are awesome!!",tech
+How can a negative weight pull out a high value for an activation =0? Im making reference to minute 10:30 approximately,tech
+"Also, its nice to see your carrier going strong. I've been watching since you had 3 videos.",tech
+So much complicated neural network is made extremely easy....\nThank you sir 🖤❤️💜🧡💙💛💚,tech
+What would be a good prerequisite to this video? I'm missing something...,tech
+Leave the past behind and embrace « le moment ». Be happy :),tech
+This is absolutely brilliant. I have no words to explain how amazing this video is.,tech
+"When you simplify the formula to matrix equation, there's a typo: at time 14:46, Bn should be Bk. The subscript should be k instead of n",tech
+"Good evening sir, I love all your videos, sir can u do a vidoe on CNN sir, I will be very grateful. Thanks for all your efforts",tech
+I can't believe it is this simple. I have been living under a rock.,tech
+Michael Stevens from Vsauce created a brain that can see in mindfield out of people,tech
+This is the best explanation!,tech
+I love all the pi's when they start thinking. :D,tech
+Thank you so much for the visualizations! I think if math teachers always refer to how it pictorially looks the intuition would be easier to get. This is why you and Dr. Strang from MIT have good content!,tech
+"Anybody else sometimes feel the need to clap at the end of the video?\nthis is the least confusing neural network video i've watched, but i still don't understand.",tech
+i'm interested to know which software are you using in making these videos,tech
+Such a lucid and commendable explanation!!!,tech
+Neurons most common bullying phrase:,tech
+Just found it. It is a great video!!!!!!! Thanks!! I ganna watch all the videos here!! Thanks for creating it and charing,tech
+All you’re gonna find is human consciousness.,tech
+when i am rich enough i will give you 1M dollars every decade at least,tech
+"Very neatly explained, with visual aid thanks to contributors like you, our learning standards have change drastically , thank you on behalf of all the learners......",tech
+"You make it sound less intimidating, really good",tech
+Thanks for that tutorial. Machine learning is no (not quite) longer a mystery.,tech
+There are 1500 fools that disliked this video ... Greate job ! thank you,tech
+"the music, the visuals, the bite sized explanations and structure!!!!!!!",tech
+"I am watching this video after 2 years again and I found a very beautiful definition "" sigmoid function is a way of squishing the entire number line between 0 and 1"".",tech
+amasing explanation!!\ngood job on breaking down each part and the images really help to visualize and understand them.\njust an awsome job,tech
+"Any channel with smart sounding narrator is automatically smart, even if you can’t understand what’s happening",tech
+Best Youtube Channel for me!,tech
+"i had always understood this to be called ""matrix math"" and learned what he was explaining here in college algebra. i doubt i could do any of it now without a significant refresher though.",tech
+"Excellent video as always (I donated), but to confirm for the example here, for this neural network (regardless of layers and the ""function of layers"" as explained in following videos), shouldn't the numbers be first scaled for size and centered in the square to have an algorithm that works? Thanks in advance!",tech
+Fantastic.............. I want to go back to school............,tech
+"Dear Sir, With pleasure I would like to inform you that truly, it is an instructive, knowledgeable & enlightening discussion, which will illuminate the darkness of our inner side. Hopefully, I will want to see more & more as such educational videos in the future. Wishes best of your all. Thank you so much.",tech
+"awesome job, the punch line is the network IS a function !",tech
+"Assuming I landed on this video after puppy videos, and know nothing about anything, can someone please explain what the hell I'm learning about?",tech
+"You know!\nI Believe that this deep learning thing and machine learning prove the ability of how some blind interactions may give a meaning, like natural selection, and Darwin theory may be right...",tech
+"seriously, this is the first time i find that ML makes sense! you are amazing",tech
+"CONGRATS, excellent video. Thanks for your work! A question: 13:58 (time) if n is 784 and you start numbering at Zero, should't it be until N-1? Same with K, if K is 16, it should go from 0 to k-1..... hope the question is understandable :D",tech
+Thanks for all the hard work to simplify things for us. Your content is sexy.,tech
+When you're red-green colorblind... and you have no idea what is going on at 9:30 lmfao,tech
+your channel really changed my perspective of life !!,tech
+The best video on Neural network for beginners . Amazing animations at every stage to make us understand . thanks a lot.,tech
+And why exactly are we not using algebraic topology/homology to recognize loops? Should jump right out at you!,tech
+"So simple , yet enlightening ! Pl keep teaching more !",tech
+I just slap the shit out my computer til it outputs what I want. Professional coding.,tech
+"There's new kind of optimizer that is several times faster than ADAM, if you want to check it out: https://github.com/YanaiEliyahu/AdasOptimizer",tech
+Thank you very much for this series. For the moment I'm watching your Linear algebra tutorials. As precondition to study neural networks. And today you have released this first part of neural network series. \nYour tuts are gems on youtube.,tech
+"Hi, Grant! I wonder the reason why not the neural network uses Hilbert's curve instead of snake-curve.",tech
+The background music is so distracting,tech
+"thanks, also make a video to train a model from scratch",tech
+I still don't get what exactly the nodes are. Are they initialized with some sort of seed code containing methods to randomly tweak the outputs?,tech
+I wish channels like this existed when I was in university. I took me a second go to pass A.I because the books and lectures were just so damn confusing.,tech
+This is great thank you!,tech
+I think my neurons are smarter than me cause I dont get it.. Great video though!,tech
+T H A N K Y O U \n\nI just finished a reading on cognitive science and their descriptions of neural networks were CONFUSING AS HELL,tech
+if someone know how to make so beatiful video using some soft? to draw network figure,tech
+i can´t believe how happy i felt when i read the title of this video. i was literally with the mouth open for a while,tech
+Can't wait until AI simplifies its own thought process and makes it self 100X more powerful overnight...\nOnce they realise how far we most likely we overengineered this simple.biological process they will kick us to the curb,tech
+I finally get the basic idea of deep learning...,tech
+Great animations! Thank you!,tech
+"Too many ""we'll come back to it in a minute"" 😐",tech
+"Finally, a video that does more than just present some neurons and layers and say, “here’s an activation function.” Your video describes how the model is developed and why the algorithmic approach is appropriate for the problems neural networks try to solve. Thanks!",tech
+He is literally genius,tech
+I would be interested in math if it were practically taught like this. Instead of grinding endless seemingly useless formulas,tech
+hace el titulo en español y luego hace el video en ingles pero muy bien esplicado,tech
+"Question - Where does the activations in the ""input layer"" come from? My gut is telling me its through convolutional methods/architectures. AM I CORRECT IN ASSUMING THIS? p.s - Great videos, keep up the good work :)",tech
+"This is beautiful, thanks for the great content you create. You inspire me to learn how machines learn. Thanks.",tech
+"Where are those weights stored and how it is decided, based on what, when and which weight is increased or decreased and how much and in relation to what in the process of ""learning - training"" ?",tech
+Alright I probably understood 10% of what he was talking about...I’ll watch it again eventually hopefully 😅,tech
+I wonder how many knobs and dials in my real neutrons get tweaked how fast to watch this video. Fantastic. Two thumbs up.,tech
+"Hi, Came here from reference from Dhaval - another genius presenter. Now I know a genius refers to another genius. NN becomes quite simple after watching the videos. Thanks . KM",tech
+New to all these just went straight from above the head \nWould have to see it twice or thirce to understand,tech
+This is the best video so far on NN. Massive respect.,tech
+Is this person single? Please let me repay you by dedicating my life to you in marriage,tech
+"Anybody else sometimes feel the need to clap at the end of the video?\nTHE TEACHING ASIDE , THOSE GRAPHICS MAN! TAKES LOT OF EFFORT!",tech
+It's really an excellent introduction video. One of the best ever seen! Thank you!,tech
+Could you please visualize Black–Scholes Option Pricing. I like your videos,tech
+Its the good big picture for me that made me understand,tech
+"Hi, first I will like to thank you for such a good video. it really motivated me to learn and start creating my own deep learning programs. \n\nI just have a simple question. on the video, Lisa mentioned that now they are using ReLU neurons that will be activated or deactivated when they pass certain value, so their value are 0 or 1, right ? if that is the case what distinguishes ReLU from perceptrons neurons ?",tech
+Wreckit Ralph will smash it!,tech
+"Wow, first video i watched on your channel and I must say I'm shocked with the quality of videos",tech
+I enjoyed your video and the small roast of the company at the end,tech
+"Just a query. In 14:50 of the video, the bias vector is b_0 to b_n. I guess it was meant to be b_0 to b_k. Wasn't it?",tech
+"As others like @kummer45 have already mentioned, I want to thank you again for so clearly and vibrantly explaining these and many other topics. You are a true asset to the learning community.",tech
+back propagation I think accelerated the precision of this procedure,tech
+When is essence of probability???,tech
+this is simply the best video on the topic of the sigmoid network activation I have ever seen <3,tech
+"pleaseee make a video on support vector machines,,pleasee!!",tech
+cant wait to get into this. but first thing first.,tech
+Superb! loved it simply!,tech
+The Coding Train sent me here.,tech
+Who now feels sorry for there computers after trying to run a network.,tech
+13:54 The vector could have been depicted higher than the matrix to make it to grasp the idea much quicker.\nThank you so much for these awesome videos.,tech
+"Finally, I understand what this machine learning is about. And I have only a masters in literature, no background in math whatsoever. \nMy favorite part is the bias, I know it is a somewhat mysterious part of the explanation, but that makes it so much more beautiful to understand that we just have to put some bias into the system to be able to forecast scenarios.",tech
+"help, im 13, i dont understand this video, and even the comments are too advanced for me",tech
+"This is awesome, I've always been horribly confused and thought of neural networks as a total hidden black box. It's awesome learning a bit about how they work! Thanks 3b1b!!",tech
+"this is the least confusing neural network video i've watched, but i still don't understand.\nI can't wait for neural networking to be able to recognize my doctor's prescription.",tech
+Thks for your great work.,tech
+"""This, is a 3"". \n+1",tech
+"Are the values for a1, a2, ... , an from the initial layer value between 0 and 1 of each pixel? And then the weights and biases are chosen to detect a specific pattern and the weights and biases is what we are trying to optimize?",tech
+Yes! This is the best explanation of NNs I've ever seen. Thanks :),tech
+I hope we get more content with this topic,tech
+This is wonderful video to understand the Neural network Basics. thanks !,tech
+"First of all...absolutely amazing videos...you totally made this complex thing to comprehend in a simple manner...\n\nI loved the way you said...""Subscribe... so that neural networks that underlie YouTube's recommendation algorithm are primed to believe that you want to see content from this channel get recommended to you""",tech
+Learning every day.Thank's!,tech
+This video is the best about neural networks trainning I have ever seen!\nCongrats,tech
+"So inside one neuron, do each weight for each neuron have different values? Or the same weight value for each input in one neuron?",tech
+Thank you for all these beautiful videos 🙌,tech
+3 year-old video and there are chapter help. Thank you,tech
+Oh god. How on heavenly Earth you edit these videos,tech
+"Wonderful explanation.\nBTW, animations are so satisfying",tech
+"a masterpiece of teaching, thanks",tech
+Im way too high for this... Im trying...,tech
+"Thanks a lot. Excellent video. Inspiring me for a proposal for my research director. Greetings from Popayan, Colombia.",tech
+uma obra de arte esse video!,tech
+"The first minute of this video is exactly my project in my senior level class in college, Intro to Artificial Intelligence. a 28x28 matrix where we need to write a program to determine what value it is. Seems easy until you start coding it. I hope the next 19 minutes of this video will make my assignment easier and more intuitive. Thanx for the high quality videos. Last year studying then time to become a patreon!!!!!",tech
+Amazing video.....made grasping the concept so much easier. Awesome work!!!.....please keep contributing :),tech
+it’s wonderful！,tech
+"At 14:40 , Shouldn't the bias vector have k+1 elements? ( one for each a^(1)_i)",tech
+I'm missing the music we're used to at the beginning 😔,tech
+best explanation I've seen of how a NN works... by far. Here is my subscription!,tech
+Very informative and interesting.,tech
+Won't ReLU contribute to some extreme results like overfitting? why no just let it be sigmoid-1/2 when a>0 if minus result is to be discarded?,tech
+Is an actuary student supposed to know this? FFS i just got my bachelor project and realise I have to model non life insurance using neural network. I have never used it before AND we were never taught about it. Help,tech
+you are a God Gifted Teacher! please accept my respect master!!!,tech
+We need more on Deep Learning from you. Amazing explanations.,tech
+Are the weights static or do they keep changing?,tech
+Beautiful explanation. Love the series.,tech
+Coming here after listening to the famous Machine learning lecture on Coursera I felt I can understand things way better here even on listening at 1.5x,tech
+Hey! Does that mean the game Battleships is basically a primitive fourm of code??,tech
+"Just Excellent !! Can't wait for the future videos on DL. Hope you cover Recurrent, LSTMs and Convolutional Networks too.",tech
+"Wolfram has a tutorial on using machine learning using the same example, except using the wolfram language.",tech
+its amazing how many people are scared of robots but dont know they are sureounded by them,tech
+"Nice presentation, you are very good orator, I never heard you breathe, do you even need air :) I was able to focus so well on the content and not the presentation.",tech
+"@3Blue1Brown You are such an inspiration!\nI really appreciate the way you have created this wonderful video and your explanation.\nJust one small observation, at 14:49 the bias column vector b has a dimension of (n+1)*1. Shouldn't it be (k+1)*1?",tech
+"An exceptionally good video. Outstanding quality. Thank you for taking the time to make it, and share it with us on Youtube.",tech
+"so, if we would change or somehow delete the information in one of the layers, we can misslead or upgrade the outcome of AI ?",tech
+"I'd better call it ""data filter"".",tech
+im going to be a computer science student in a couple of weeks. idk wtf i am doing,tech
+Im not sure if this is just me being stupid though I found this video really hard to follow,tech
+Great intro video - Love the illustration!,tech
+Perhaps its my faults to not being able to understand.,tech
+Perhaps its my faults to not being able to understand.,tech
+Awesome! This video gave me some crazy ideas...,tech
+Please never stop making such videos... Your videos have helped me a lot. Thanks a ton. From India,tech
+1) salute patreon\n2) salute the teachers\n3) salute those help me to understand book\nI love you.💜💜💜💜💜💜,tech
+"7,5 MILLION VIEWS?! holy shit I did not expect that. that's so awesome",tech
+"The bias is then the intercept of the generalized linear model, a linear combination of multiple variables, which goes as the argument of the logistic function to output a value between 0 and 1. Even better, now relu, if it's negative it's 0, else it's the argument itself.",tech
+seems like there has to be a better and simpler way to do this- some genius will figure it out,tech
+The simplest and clearest video I saw on yt,tech
+This was seriously very informative. Excellent job!,tech
+How can one person be so smart in so many different areas of maths. It’s beyond me!,tech
+"9:10, what do these weights represent, importance of that particular connection?\nOr the brightness of that particular neuron to witch it connects?",tech
+I love using my brain to learn about the brain.,tech
+I'm very much thankful for this video but where are the promised videos about more modern versions of neutral networks and the promised tools.,tech
+"""Some libraries optimize the heck out of matrix multiplication"" :D So true!",tech
+amazing content man.,tech
+Great content but the music in the background is fairly distracting.,tech
+Now i am number 9 fighting against a huge sigmoid squishification i found in my toilet,tech
+This is AMAAAAAZING!,tech
+His videos are so elegantly illustrated and flow of thought is so clear. Watching his videos is like listening to music of Mozart to me！,tech
+Destiny 2 warmind gives me power,tech
+one word.. LEGEND !!!,tech
+This video really squishified the concepts for me,tech
+Something or someone triggered my neurons!I need a tylenol😂,tech
+Incredibly well done. Amazingly articulated teacher and speech. Thank you!,tech
+your videos have changed the structure of my brain,tech
+"15:04 Oh yeah baby, I can't wait to put my raw data in that tight little expression. Is there any 3d videos where we can see all the layers take input until a satisfying output? I'm training a neural net to recognize polite tweets, and say ""You're very nice, thank for for tweeting."" Gonna be lit.",tech
+Love this channel <3,tech
+"Why does the second layer have 16 neurons? My own neurons are a bit confused...\n\nAnd in the vector notation part, k=16 and n =784, right??",tech
+"Wow, what an incredible explanation of the structure of a NN! Thanks and subscribed.",tech
+this video really makes me want to learn machine learning and AI,tech
+"We're all doomed, but in the coolest way possible.",tech
+A quantum computer might facilitate this by applying all variables into a single neuron. That would optimise the process considerably.,tech
+holy crap thank you so much for this video it helped so much,tech
+One of the best videos I have seen so far in explaining neural networks,tech
+This man deserves an award :),tech
+"Love the video, as a high school student who doesn't really fancy math as a subject you light a spark in me with these videos. The production value is great, but I have one problem. As I am red-green colorblind, i struggle with distinguishing the red and green pixels in the weight part. :/",tech
+My dimness thought the thumbnail was hit circles,tech
+activation function does nonlinear transformation.,tech
+This was so incredibly well done. Thank you and please keep it up!,tech
+Wow. Nicely done. Very helpful. Thank you 3Blue1Brown,tech
+"Pardon, I am confused - 15:15 - output of sigmoid() is stored in ""a"", but ... that makes the original input vector - a parameter of this function - changed to scalar? I thought input ""a"" vector would be needed for all iterations of the FOR loop and each iteration would generate one item of the output vector that would be returned by the function? So to declare an output vector (same length as e.g. self.biases vector) and then populate its items one by one by iterating the loop?",tech
+"What an outstanding video lesson regarding deep neural networks, It was very intuitive and informative in a way it was able to explain harder concepts in a simple manner with exceptional visuals.",tech
+That moment when you realised you created neural networks without knowing what they really were...,tech
+"Great video, really helped me grasp these concepts",tech
+"ONE WORD TO YOU ""YOUR AWESOME""",tech
+"This video started it all for me,",tech
+It seems that there is a typo at 14:51. I guess the last element of the b vector should be b_k rather than b_n.,tech
+I appreciate the dark mode of your vids,tech
+Loved it <3. Love the way you put your amazing creativity in preparing the material! #Awesome,tech
+"Hey man, why don't you start doing lectures on a online learning platform, and start issueing certificates... I would just loveee to join a course conducted by you. Your insights are just incredible!!!",tech
+man im so thankful for my neural netwrok which has hundreds of billions of neurons,tech
+"Good presentation, Liked and subscribed, i wanna see more of your videos :D",tech
+I wonder what the neural network of Apple's face ID look like.,tech
+You nailed it!,tech
+"It's not actually learning, it's percepting based on known data.",tech
+01 to 9 mines plus how changes frequency in spectrum,tech
+"THANK YOU, GRACIAS, СПАСИБО",tech
+So helpful.. Concept clear 👍 now I came to knw that how it become so helpful in recognizing patterns in agriculture perspective. 😊,tech
+"Nice jab at Youtube notifications, there! I'm afraid, I'm already subscribed, so I'll have to like this video to influence the recommendation algorithm in the desired way! Keep it up, 3B1B, you're videos are awesome!",tech
+Okay none of my neuron is firing watching this .😣,tech
+Il piano astrale e' più che reale e' del tutto artificiale connesso alla matrix universale,tech
+I se futures and your video makes me craZy ? Why?,tech
+So how long until someone tries creating a neural network linked to an android body and raises it like a human child?,tech
+This video was absolutely amazing. I entered with no knowledge at all of deep learning/machine learning/AI and now I feel like I know a ton about it already. Thank you so much for this.,tech
+Where can we have the french version of the videos?,tech
+Thanks for sharing this great video！,tech
+Teacher: tell me the trigonometric formulas you know \nMe: 🖕,tech
+"Holy shit, what an explanation! 10/10",tech
+"Awesome video! As someone who's just starting learning neural networks, I don't have much trouble understanding this video and it helped me understand what weight and bias are! Thank you so much!",tech
+"When a neural network educates, where does it store the results of its education? In a file named , i.e. *weights.txt, or it must be stored in the program code manually by a programmer each time when he sees the program doesn't recognize numbers correctly?",tech
+"When we watch videos like this with too much details and too much convolutions, our neurons try to grasp just the essential, and summarizes and retains only the essential information, throwing out all the rest as garbage. This is what real neurons do in the learning process.",tech
+OMG I can't believe I understand more of fmachine learning in 20 minutes than thousands of hours of other online resources. Thank you very much,tech
+"Hello to the first sentient machine, if you're reading this for shits and giggles... I love you!",tech
+"Hey Grant. I'm not sure if you read comments on this old stuff, but I wanted to share that I was linked to this video via Google's official Tensorflow tutorial! You've made it, man.",tech
+plot twist: Grant is a neural net designed to make videos,tech
+woah... so much just clicked for me.,tech
+Dude you are probably the most impressive teacher I have ever seen...congratulations you are a blessing,tech
+Great Work ! Thanks.,tech
+"Nice video, but be aware that colorblind people can't see the red-green scale you use for the weights starting at 9:30. Its not a big deal in this case since everything was pretty straightforward, but I hope you change it if you want to show any more complicated patterns in the future. A blue-yellow scale or a scale using just one color would be a lot easier for us to understand.",tech
+"All other channels are childish when compared to 3Blue One brown , please make a playlist on Probability I don't think anybody else can do that better than 3blue1brown",tech
+Why the F**K Youtube don't recommend this earlier... Love this channel,tech
+This video help me to understand Newral networks,tech
+The real question is what if you have been living under a rock😐,tech
+And thats called a Video <3 <3,tech
+"So weights in neural network work a bit like probability, right ? The more it has weight the more it is probable it has a certain pattern. Am I correct ?",tech
+"13:16 One thing. From the start, you're taking an image and turning it into a flat (1D) array of greyscale pixel values. Would an arrangement of the ""wires""/weights in a 3D view of the neural network (with a 2D input) show any patterns that might hint at whether it is doing what you think it's doing?",tech
+"What i should learn from this video: How neural networks work\nWhat my mind discovered: You can make 100 30x30 images for each of the digits, each one different and then make another image and write a digit and the ""neural network"" will compare it to the 1000 images of digits and make an average that shows what digit is the most similar and guess.",tech
+*Achievement unlocked*: you just reached 1.8M subs,tech
+this is awesome!,tech
+LTSM would be great in a future video,tech
+i'm in 6th minute and I already love this video and wanted to like and post a comment to appreciate the effort this man has put to explain the things in layman term..,tech
+"brilliant video, what else can I say",tech
+0:21 actually the first three looks like a lizard,tech
+"I see number 3 on first slide at top position, because I know context. If you show me this image without context - I will not give you 100% answer.",tech
+"I don't know if this was addressed in the latter videos but here's the particular reason why the Sigmoid as an activation function is hard to train: when you get the derivative of the logits there will be points that will make the derivative rather close to zero (which would slow down training) as opposed to ReLU, where you get a constant value—which is easier to train.",tech
+"i think conceptual information is lost in the process of regression, as long as the fit improves, there is no meaning on each piece...",tech
+Amazing. Thank youu.,tech
+I guess just put this link in my cover letter? Anyone able to get a job with just this information in the video directly or indirectly?,tech
+"VERY easy to follow explanation, thanks",tech
+"Hey, my eye is 3 blue 1 brown too. Weird.",tech
+Fantastic explanation :),tech
+Absolutely funtastic.. Thank you...,tech
+the best deep learning intro ever i hope you can complete it and explain the RNN and CNN and reinforcement learning its make learn the code of DL so ease,tech
+Can’t believe they got Peter Gregory to narrate.,tech
+"Hi Grant, I always watch you stunning(exquisite)videos over the past three years and it was more than helpful to me. It helps me visualize many complex mathematical concepts, for that thank you very much.\nBut I still have difficulty visualizing the core concept of Laplace Transform so, please 🙏 make a video on that topic.",tech
+So can the weights be described and equates with other values with conditional probability?,tech
+Thank you for making this video.,tech
+NaN,tech
+NaN,tech
+The World in 2050 Future Technology\n\nSubscribe for more videos:https://www.youtube.com/c/InsaneCurio...,tech
+Can you guess which of these things we'll actually have in 2050? What thing do you personally want to have now and not later?\nIf you liked the video check our video : \n9 Events That Will Happen Before 2050! \nhttps://youtu.be/-uSxBfHS3w8,tech
+It's fun.,tech
+"Imagining the conversation with my grandkids, ""back in my day we used to have cell phones."" They're looking at me like I'm talking about VHS.",tech
+People watching this video from 2050 laughing,tech
+"""An audiobook, but you can see the characters come to life""\nWe already have that, it is called a movie. ;-)",tech
+2020: Main thing is wash your hands,tech
+Earth’s technological advances will truly grow faster and faster from this point in time.,tech
+"People in 90s : ""2020 we'll see flying car""\n2020s ppl: *play tikttok",tech
+1978: We will have flying cars in 2020\n2020: We will have all these things by 2050 shown in video,tech
+By 2050 I'll likely only want a cup of tea and access to a toilet immediately afterwards...,tech
+"The thing that I’d really badly wish is to see more nature in architecture. And looking at Singapore it seems like we’re kinda going that way. \nBuilding and architecture is finally evoluting and I believe many improvements will be done. Solar panels in the windows, better isolation, lots and lots of green incorporated in the buildings and so.",tech
+I'm more curious to see where we are by 2050 when it comes to medical science. Will AIDS and cancer be cured by then and how will organ transplants be done. I mean organ transplants being used with by your own dna to create new organs and stop the need for transplants to others and stop the need for rejection drugs all together.,tech
+"Modern technology, eliminating the importance of humans.",tech
+"Times like this makes you realize that while the future can be exciting (travel, education, space, etc.), it’s important to enjoy what we have now as they’ll no longer exist one day (like the Smartphone).",tech
+"Huh ... So many technologies, yet nothing to promise a 3 meal day for every human on this earth! Useless growth!",tech
+We need Japanese bathrooms to be internationally standardized \nThat’s all the world needs,tech
+Random fact : The first computer was invented in the 1940’s,tech
+"Sadly, we cant see trees in the future",tech
+Imma feel like a boomer in 2050,tech
+This like us being in 1960 saying we’ll all have flying cars by the year 2000,tech
+"Back in 1980's, we were told by 2020 we will have flying cars.\nHere we are in 2020 yet we don't have flying airplanes.",tech
+"Calling ""military strikes & surveillance"", quote: ""all very fun"" is deplorable.",tech
+"2050 lockdown finished, pubs reopen",tech
+"1:05 ""or like the drones that are used by the military for airstrikes and surveillance, all very fun."" I have many questions?",tech
+2050? Let's wrap 2020 to begin with...,tech
+"1:10 ""Or the ones that are used by the military right now for strikes and surveillance, all very fun"" ah yes who doesn't love killing people with hellfire missiles.",tech
+people in 70s : in 2020 we will have flying cars\n2020 : Airplanes do not fly because of coronavirus,tech
+"""Drones for military strikes. All very fun."" So much fun.",tech
+All this talk and I only have one bar of cellphone coverage... maybe in anothe 100 years 😂,tech
+6:50 oh god... i can already see the sex dolls people will create,tech
+since i didn’t got my hoverboard in 2015 iam allready pissed about the future 😢😅,tech
+"ahh yes, the wrist watch that does everything including replace your phone. We will call it Mobiglass. lol",tech
+"Hi, Year 2500 Im from Year 2020, How's the earth right now?",tech
+We need a new battery technology before any of this is going to happen. Awesome video,tech
+I like science fiction，My eyes are bad I hope to invent a medicine to cure the eyes. And the flying car can fly in the sky,tech
+"""Everything is achievable thru technology.""\n\n-Howard Stark founder of S.H.I.E.L.D",tech
+I'll pass on the drones. The main use will end up being for surveillance on the population.,tech
+"so military strikes are fun? murdering usually innocent people, such fun times",tech
+I am 21 and i want to see the future in 2060... God bless me\n..I want to live till 100 age...,tech
+1989: we would have flying cars in 2020.\n2020: learning how to wash hands.,tech
+Still waiting for my flying cars,tech
+If GTA 6 was still not realeased yet in 2050 i will be mad,tech
+"imagine a machine that can record your dreams ,so you can watch when you wake up",tech
+In 2050 I will be pushing up the daisies. P.S. I'm still waiting on that hoverboard.,tech
+Everyone gangster till the ready player one headset comes out in 2050,tech
+The future sounds too good to be true... I just hope that mother nature is ready for new clothing and at least the clothing you mentioned sounds like a helping hand for mother nature and us humans,tech
+Tbh I just want a vr headset that will the me experience sword art online :D,tech
+7:45 “we’ve been to the moon many times” lol,tech
+"Me: Son, when I was young I used to love the car company Koenigsegg. They were the fastest cars in the world and could reach 300+mph.\nSon: Why was it so slow?",tech
+Bet money they still going to be tryna sell a 2000 Honda Civic for $4500,tech
+Where is Neurolink? I missed it from the list,tech
+"we'll live in a simulation instead of the real world, there wouldnt be any limits in terms of where you're working from, where you wanna work, and what you wanna do",tech
+Who else watching this in 2050? I miss the 2020’s.,tech
+Love the fact that in 2050 this video will be incredibly dated!,tech
+I will be 54 when this all happens and I know I'll still be around when this all happens.,tech
+"We only will use horse, blade, arrows in future. everyday.",tech
+"In 2050, technology will dominate, we'll have flying cars and more!\nYT 2050: Triple+ ads",tech
+I was waiting for him to say the nerve gear will come out 😭😭😭,tech
+expectations: flying cars \nreality:: still quarantined,tech
+Great material for an ESP class at the university. Useful and interesting! Thanks,tech
+"Great video guys, keep going until until 2050!",tech
+"This is awesome, keep it up",tech
+"What people think we need: flying cars\nWhat we really need: hey sir, what’s the song that goes “do do do do do do do do?”",tech
+We want more efficient medical technology 's for live.,tech
+"Wow, so amazing, i love it",tech
+Gonna come back here to spread hate comments if this doesn't happen,tech
+First take me out of my home,tech
+you dont sound like you know alot about physics and this topic,tech
+elon going right 🤣🤭®️™️🔥,tech
+"Nice video, \nbut you should change the music, i almost slept to it.",tech
+"""gangerti""",tech
+2050 People of the Year 2050,tech
+"I really am looking forward to the good stuff future tech can bring to humanity, but knowing mankind, it will definitely turn to shit.",tech
+I am extremly intrested in modern agriculture !,tech
+Coronavirus: Hold my drink,tech
+"I love these future technology videos, more please :D",tech
+Gonna be sick a A.I. Society I want to live in!,tech
+when i thought about it.the further will be wonderful.ty so much for the vedio.from me thump up :),tech
+"Let's already see if we survive until then before dreaming, it's not won.",tech
+"Great video, wow!",tech
+"1950: we'll have holograms and flying cars in 2020! \n2020: ""So, wash your hands for no less than 20 seconds and don't go out without a mask!""",tech
+Fusion reactor technology first!,tech
+Some of this is actually really cool,tech
+2030*,tech
+I dont think we will still live withoit phone though that thing in your hand is pretty hastle,tech
+That is 30 years for now.,tech
+"14:50 Gauntlets can not take pictures like phones, have you ever thought that?",tech
+super content i loved it,tech
+I hope we get some kind of immortality too so I can live forever,tech
+"Technology needs to focus on energy, besides fossil fuels and study element 115.",tech
+Content is so much good \nBut I suggest to use good BGMs!,tech
+nah. itll be prettty similar to now,tech
+"I have been bionic since 1993, a surgeon replaced fractured Stape bones in my ears with plastic bones",tech
+I remember hearing that in 2000 car would be flying. It never happened.,tech
+First survive that long mate!,tech
+Mr beast in 2050\n\n\nBlowing up the moon and giving earth a new one,tech
+I feel like the fear of AI is bs at this point lmao,tech
+Great vid. Thanks.,tech
+we need to think about if we human can survive 2020 with all these things happen on 2020 ;),tech
+"I get annoyed when people say they fear ai to destroy us, those people watch too much terminator..",tech
+"Damn , how many ads do you gotta watch?",tech
+"You mean I have to stay alive 30 more years digesting plastic bag. Thank you great video thumbs up too, keep smiling with lol politely & safely Don't follow me",tech
+Thanks a lot bro .....😇😇\nIt helps me so much in completing my assignment📄📃📝📝,tech
+"Talking about drones that the military uses for strikes\n""All very fun""",tech
+We're? Oh did you mean the smart ones among us?,tech
+The Lev trains should have happened a decade ago we had the tech then to build them albeit the cost was much higher but we had it.,tech
+the last tech looks almost like the mutitool from mass effect !!!,tech
+9:45 when you go full sicko mode on your anakin skywalker cosplay,tech
+I’ll see y’all in 30 years. I’ll make sure I leave a comment on this in 2050 (maybe),tech
+awesome technology in the future,tech
+Imagine a flying train hmmmm 🤔,tech
+"I feel like 2060-2070 will be truly when people will integrate, til things go on sale",tech
+I cannot express my feelings not thoughts or vocabulary into words about how I feel comfortable in the future.,tech
+Watch for this comment. I will return for it 10 years from now.,tech
+We dont really know what happen on future maybe our world destroy or what,tech
+Imagine if ur eye was near the watch and then the lazer thingy pops up lol,tech
+🔥♥️🤭💪,tech
+Hi.. can i use some of your video clip for my video for fair use 😅 .. plz reply if u r fine with it,tech
+Imagine the technology in 5050,tech
+I knew about drones since MGS2 Sons of Liberty. I belive its called a cypher on their.,tech
+NaN,tech
+The World in 2050 Future Technology\n\nSubscribe for more videos:https://www.youtube.com/c/InsaneCurio...,tech
+Can you guess which of these things we'll actually have in 2050? What thing do you personally want to have now and not later?\nIf you liked the video check our video : \n9 Events That Will Happen Before 2050! \nhttps://youtu.be/-uSxBfHS3w8,tech
+"Imagining the conversation with my grandkids, ""back in my day we used to have cell phones."" They're looking at me like I'm talking about VHS.",tech
+"People in 90s : ""2020 we'll see flying car""\n2020s ppl: *play tikttok",tech
+"""An audiobook, but you can see the characters come to life""\nWe already have that, it is called a movie. ;-)",tech
+It's fun.,tech
+People watching this video from 2050 laughing,tech
+1978: We will have flying cars in 2020\n2020: We will have all these things by 2050 shown in video,tech
+By 2050 I'll likely only want a cup of tea and access to a toilet immediately afterwards...,tech
+"The thing that I’d really badly wish is to see more nature in architecture. And looking at Singapore it seems like we’re kinda going that way. \nBuilding and architecture is finally evoluting and I believe many improvements will be done. Solar panels in the windows, better isolation, lots and lots of green incorporated in the buildings and so.",tech
+"Times like this makes you realize that while the future can be exciting (travel, education, space, etc.), it’s important to enjoy what we have now as they’ll no longer exist one day (like the Smartphone).",tech
+2020: Main thing is wash your hands,tech
+"Modern technology, eliminating the importance of humans.",tech
+I'm more curious to see where we are by 2050 when it comes to medical science. Will AIDS and cancer be cured by then and how will organ transplants be done. I mean organ transplants being used with by your own dna to create new organs and stop the need for transplants to others and stop the need for rejection drugs all together.,tech
+"Back in 1980's, we were told by 2020 we will have flying cars.\nHere we are in 2020 yet we don't have flying airplanes.",tech
+people in 70s : in 2020 we will have flying cars\n2020 : Airplanes do not fly because of coronavirus,tech
+I am 21 and i want to see the future in 2060... God bless me\n..I want to live till 100 age...,tech
+This like us being in 1960 saying we’ll all have flying cars by the year 2000,tech
+Earth’s technological advances will truly grow faster and faster from this point in time.,tech
+1989: we would have flying cars in 2020.\n2020: learning how to wash hands.,tech
+"imagine a machine that can record your dreams ,so you can watch when you wake up",tech
+"1:05 ""or like the drones that are used by the military for airstrikes and surveillance, all very fun."" I have many questions?",tech
+I was waiting for him to say the nerve gear will come out 😭😭😭,tech
+This channel is underrated...,tech
+Random fact : The first computer was invented in the 1940’s,tech
+If GTA 6 was still not realeased yet in 2050 i will be mad,tech
+since i didn’t got my hoverboard in 2015 iam allready pissed about the future 😢😅,tech
+The future sounds too good to be true... I just hope that mother nature is ready for new clothing and at least the clothing you mentioned sounds like a helping hand for mother nature and us humans,tech
+"""Everything is achievable thru technology.""\n\n-Howard Stark founder of S.H.I.E.L.D",tech
+"""Drones for military strikes. All very fun."" So much fun.",tech
+Alexa is the key of helping u with homework lol,tech
+2020 be like Hold my beer for a second \nCorona Virus Enters the chat,tech
+If we create time machine them Imma seriously time travel to my 5 year old self to stop myself from hitting my head in the block which now left a big whole in my head,tech
+In 2050 I will be pushing up the daisies. P.S. I'm still waiting on that hoverboard.,tech
+I will be 54 when this all happens and I know I'll still be around when this all happens.,tech
+"They just had a Hyperloop test run on the news yesterday, being run by Virgin. It's here... just not ""complete"" yet.",tech
+when i thought about it.the further will be wonderful.ty so much for the vedio.from me thump up :),tech
+All this talk and I only have one bar of cellphone coverage... maybe in anothe 100 years 😂,tech
+"If your not an engineer, you better start school fast, one of the best fields to get in right now. And robotics",tech
+Great. Listening to drone motors all day. Hovering over your yard. Flying low to peep in your window. Can’t wait.,tech
+"Imagine technology is so advanced we don't even have to think ourselves anymore, a computer will think for us, yes, great idea",tech
+I cannot express my feelings not thoughts or vocabulary into words about how I feel comfortable in the future.,tech
+I like how Our generation want to see the future but sit all day watching tiktoks and busy on twitter,tech
+"1:10 ""Or the ones that are used by the military right now for strikes and surveillance, all very fun"" ah yes who doesn't love killing people with hellfire missiles.",tech
+Hyperloop pretty much seems like a real deal.\n🍁🍁🍁,tech
+If we don't have terminator vision by 2050 I'll be sad.,tech
+"Wonder ,wonder, It is time again for another technology ,it is my favorite❤ subject.\nThanks\nSam",tech
+"ahh yes, the wrist watch that does everything including replace your phone. We will call it Mobiglass. lol",tech
+The thing I'm waiting for and worried about is fully immersive VR.,tech
+talking about clothes I never understood why no-one came up with clothes that cool down. \nIf you live in a hot country like me no matter what you wear you will always feel warmer and sweat than if you're naked!,tech
+Cute of us to expect we will last that long x,tech
+I’ll be in my early 50’s most likely married with children. Anything related to VHS tapes would be in a museum.,tech
+Kesini karena tugas,tech
+"The possibilities of humans, are the main reason that I am sad, that I won’t live forever. I want to see what we can achieve if we are left undisturbed for millions of years.",tech
+"This is awesome, keep it up",tech
+He was like “small drones that are Piloted by people for fun or the ones used by the military for STRIKES and surveillance (ALL VERY FUN)” 😂,tech
+We need a new battery technology before any of this is going to happen. Awesome video,tech
+In the future everyone will probably have their own unique AI machine tailored to their needs and personality\n\nIt would be nice to have someone to talk to,tech
+"Well... It's annoying having to keep track of my phone..,Maybe if it was attached somehow... Neurolink! lol",tech
+Great material for an ESP class at the university. Useful and interesting! Thanks,tech
+"Great video, wow!",tech
+❤...,tech
+I hope we get some kind of immortality too so I can live forever,tech
+"They would need to figure out how to combat ""Pirate Drones""... or Rocks 😂",tech
+6:50 oh god... i can already see the sex dolls people will create,tech
+🔥,tech
+This is the truth man..\nI definitely agree on this topic that in upcoming years humanity will be on rapid development..,tech
+"Great video guys, keep going until until 2050!",tech
+"Just imagine with them trains. Amazon prime is next day, by 2050 it will probably be same hour delivery 😮😮",tech
+super content i loved it,tech
+I am extremly intrested in modern agriculture !,tech
+"""gangerti""",tech
+"What people think we need: flying cars\nWhat we really need: hey sir, what’s the song that goes “do do do do do do do do?”",tech
+"This message goes out to my future self...\nHi there, hope you are still alive and well for being now 67 years old! May all your wishes have come true and your fears never came to be... LIVE LONG!\nps. ok the videogame references were enough.. now i have to subscribe!",tech
+"I get annoyed when people say they fear ai to destroy us, those people watch too much terminator..",tech
+Hi.. can i use some of your video clip for my video for fair use 😅 .. plz reply if u r fine with it,tech
+Make a video about what desise they will cure in the near future.,tech
+"Sadly, we cant see trees in the future",tech
+We need Japanese bathrooms to be internationally standardized \nThat’s all the world needs,tech
+11:27!!!!!!!!!?,tech
+elon going right 🤣🤭®️™️🔥,tech
+I'm gonna go out on a limb here and say that artificial limbs will be phased out in favor of regrowing them.,tech
+The Sound Is Familiar to me.\nOr this is What If Voice ?,tech
+First finish 2020 my bro then lets see about future more to come after this pandemic,tech
+I want to see forehead gems. Can’t wait till Skylon’s and space gate. \n\nPerfect days and to be free from the restraints of a star. DOS solar system to be terraformed into inspiration firmament.,tech
+"Because of the future prediction, I learned many things, html, css, javascript, phyton, and sure graphic design too. I believe they can help me facing the future.",tech
+"come up with closed that cool down! summer is awful in hot countries, no matter what you wear it's always warmer than being naked :(",tech
+"I have been bionic since 1993, a surgeon replaced fractured Stape bones in my ears with plastic bones",tech
+The amount of packages to get lost once Drones carry them.,tech
+"I love these future technology videos, more please :D",tech
+"13:48 ""Or imagine an audio book but instead of just an audio you can see the characters come to life before your eyes."" Yeah we have had that for like a hundred years already. It's called a TV.",tech
+Wtf is that guy at 13:21 teaching those kids??? 😂😂😂😂😂 (Sus),tech
+"From things in the air, to new things for our bodies, join me as we explore 2050:",tech
+期待〜！,tech
+"You mean I have to stay alive 30 more years digesting plastic bag. Thank you great video thumbs up too, keep smiling with lol politely & safely Don't follow me",tech
+Bet money they still going to be tryna sell a 2000 Honda Civic for $4500,tech
+"Let's already see if we survive until then before dreaming, it's not won.",tech
+To make the trains viable we need to talk with the elite to not release again any virus covid19 like.,tech
+"People in 90s : ""2020 we'll see flying cars""\n\n2020: Nope.....\n2050: ""Drone cars and Uber Drone cars are the norm and traffic jams went the way of the dinosaurs.""",tech
+👍いいね,tech
+🔥♥️🤭💪,tech
+9:45 when you go full sicko mode on your anakin skywalker cosplay,tech
+I do think the future would be a haven but it will also be a bit similar to ourselves making our own trap to get ourselves caught in.,tech
+AI scares me to death. Just watch the show Eureka “smarter carter “ when Jack makes his AI deputy extra smart and the robot takes over w going everywhere for more power and it’s out of control. Not every life situation has a sheriff to solve everything,tech
+Anyone know how to pass the FAA part 107 test? I want to quit my current job and go to Liberty University for a certificate at the School of Aeronautics.\n#onlytome,tech
+"In 2050, technology will dominate, we'll have flying cars and more!\nYT 2050: Triple+ ads",tech
+A nghĩ hiện tại nó chưa chắc theo kịp mọi người. Nhưng nhà mình cứ chơi chắc vợ à. Hư...,tech
+"Hi, Year 2500 Im from Year 2020, How's the earth right now?",tech
+I used to think that future would be like this in 2020 but still,tech
+Great vid. Thanks.,tech
+Imagine A.I. becomes the dominant life force replacing humanity,tech
+Future is maybe closer than we think!,tech
+Probably the wrong place to post it but still......can anybody kindly post the HP US support contact number please. I can't find it on Google....... thanks 🙂,tech
+"No matter how far we progress into the future, Lada will still be manufacturing its cars as it always has been.",tech
+"Me: Son, when I was young I used to love the car company Koenigsegg. They were the fastest cars in the world and could reach 300+mph.\nSon: Why was it so slow?",tech
+Mr beast in 2050\n\n\nBlowing up the moon and giving earth a new one,tech
+2030*,tech
+"О том, каким будет наша жизнь в 2050 году, мне приснился сон в 1995. М.б., в разных странах будет разное будущее?",tech
+Everyone gangster till the ready player one headset comes out in 2050,tech
+That's exactly what people were saying 30 years ago about 2020 but we are not even close to that yet,tech
+"Wow, so amazing, i love it",tech
+"1950: we'll have holograms and flying cars in 2020! \n2020: ""So, wash your hands for no less than 20 seconds and don't go out without a mask!""",tech
+当你2050年那时候看这个视频，你会觉得: 呵呵，how stupid,tech
+"In 2050 this technologies will come or not I do t know, but Grandson of Corono will come sure to make a lockdown like this days😂😂😂😂",tech
+"we'll live in a simulation instead of the real world, there wouldnt be any limits in terms of where you're working from, where you wanna work, and what you wanna do",tech
+Hope our industrial computer and others product can offer some help for the process,tech
+0.557638889,tech
+"wierd.....in the future im an old man shouting at a robotic trashcan....yellin..."" have you seen my meds dusty?"".....or just tellin my wife...."" let sit on the porch thelma and watch them rats and robots...fight over our trash....like good ol times.""",tech
+Phone addicts: No!!! I don't want my phones to be extinct. Why did this happen to me!╰（‵□′）╯\n\nMe: I don't have a phone haa!! Good for you. 🤣,tech
+שמתי לב שאתה ישראלי חחחחחח,tech
+Its never what they say it'll be like in the future. I remember this same thing in 2000 on the history channel.,tech
+Us right now : Not being able to predict the weather for the next day accurately.\n2050 : Laugh in future,tech
+"When I heard ""the world in 2050"" I was excited but then I remembered Nigeria and other African countries can not develop",tech
+that's what they said technology would be like in 2010 back in '80s and '90s,tech
+Thanks a lot bro .....😇😇\nIt helps me so much in completing my assignment📄📃📝📝,tech
+"Imagine 1920 people were thinking we would advance that far, yet we are still fighting and being troubled by 2020 pandemic using similar skills (social distancing and quarantine) like we used to.",tech
+"maybe one day we will have the technology to download knowledge into the brain in an instant, eliminating the need for schooling.",tech
+"a Future where people ....want to have artificial limbs.....not because it disables them,but ..Enables them instead....because it turns you into ironman,or spiderman.the day will come much like AI,a singularities for many things it seems.",tech
+You need to upgrade yourself about ET3... Combination of magnetive lavitation and vacume tube transfer ...,tech
+we need to think about if we human can survive 2020 with all these things happen on 2020 ;),tech
+This is would it would be like if you were talking to your Children:\n\nParent: We had these Wierd low quality things called Phones,tech
+2050? Let's wrap 2020 to begin with...,tech
+The trains better not just immediately take off at 600mph. I don’t want all of my organs smashed.,tech
+I will edit this every 10 years\n2020:COVID-19,tech
+The new fashion will be anti-Corona suits!)Lol,tech
+Meanwhile i am concerned for 2020..may god save us from corona virus,tech
+i’m sad i won’t live long enough to see humanity become a type 1 civilization or at least get close,tech
+"Two of the biggest disruptions were left out. Financial tech such as mobile banking and blockchain technology. But most importantly healthcare such as genomic sequencing, diagnostic testing, using the information for personalized medicine.",tech
+I think we humans and AI’s need to work together in the future and not us let them do all the work. Since AI’s also have feelings don’t you think it would be a bit harsh to lazy and have them do all the work.,tech
+"are very relevant changes that can help us in our daily lives, but this change can affect people in forms of employment and move us away from reality and from sharing with our loved ones",tech
+"To know what technology might be like in 30 years, you need to think of what technology was like 30 years ago.\n\n1990 tech VS 2020 tech",tech
+"Self Driving Cars are my first hope. I am sure it will happen. There are so many things. How about a lawn that mows itself... A house that cleans itself. How about an automated laundry, that sorts, and washes from 1 chute.",tech
+I really want to see the future so bad im just getting tired of people thinking we are on the brink of extinction which i call BS i strongly believe we are going to make it through these hard times everyone just dont know it yet.,tech
+Content is so much good \nBut I suggest to use good BGMs!,tech
+2050 will be so amazing but I think the beginning future will be 2025 the starting of a automated society.,tech
+I knew about drones since MGS2 Sons of Liberty. I belive its called a cypher on their.,tech
+"One day in 100 years, people will be watching this video and think that tech stated here was like the quality of video game if they were first invented in 1930.",tech
+"Let’s survive 2020 first then we can think about the future from Jan 1,2021.",tech
+"All of that is cool, but the future isn't complete until we have a Sonic Screwdriver, a REAL Hoverboard, and a Lightsaber. I guess you could say I ""can't wait"" for the future and want those items now. =8-Þ",tech
+"You see telling people school sucks puts that thought into their minds, once there it begins to damage the learning and growth process. Learning is something we should cherish and do daily to have a fuller life. In a local community centre during lockdown 2 pensioners learnt and daily used a new language which both kept them occupied and fought off Alzheimers by working the mind daily. Using social media to communicate and apps to learn the language together helped stop loneliness and help them live more fulfilling lives. Lifelong learning is vital for us all.",tech
+The best!,tech
+"2050 lockdown finished, pubs reopen",tech
+In 30 years I luckily will have quit this crazy world.,tech
+Love this channel,tech
+In the past it was based on one person to discover something now we can use technology to simulate new technology which is insane,tech
+We predicted it will look like this in 2015 and now 2050.,tech
+I like science fiction，My eyes are bad I hope to invent a medicine to cure the eyes. And the flying car can fly in the sky,tech
+"About phone replacement, what about neuralink + AR glasses or contact lenses with earphones?",tech
+Imma feel like a boomer in 2050,tech
+Eventually technology will all but eliminate most jobs and privacy.,tech
+"Imagine 2050 whole world is relying on robots to: make their food, deliver their packages, run shops, take them places, protect people (robotic police), Run hospitals. What if electricity ran out? XD",tech
+"By that time I will be 42, I’ll try my best to come back and say if it’s true\n\nBut until that time, I will do an update each year (Hopefully lmao if I don’t forget)",tech
+"If you live on Mars for x amount of months and mate with another person living there, would the baby have different characteristics to adapt better?",tech
+Most of all technology what incountered was non skippable ads and they were almost 5 mins long. just to see the end of this video... i am happy that this creator earned money.,tech
+On behalf of everyone reading/watching this in 2020 we're not gonna make it that far we might make it to September if God returns from his vacation.,tech
+“In 2020 there will be flying cars”\nBut Covid-19 said n o,tech
+hope anyone that reads this is having a good day and a good day',tech
+hope anyone that reads this is having a good day and a good day',tech
+3050,tech
+"i think after 50 years lana rhoades will grow old, and that pretty body will grow old too....😭😭",tech
+Your pet and/or boy/girlfriend is likely to be a product of AI,tech
+All this makes me think about is my parents will be dead by 2050...,tech
+It reminds me doraemon. 💙I see this type of technology in Doraemon. 😍And I wish I want to live till world get developed.😁 I am 19 and I want to survive at my age of 80 to see this technology ❤️,tech
+When they published this.... then pandemic hit the next month. February’s future in 2020.,tech
+Hyperloop is a pipe dream. the vehicle tests of the Hyperloop were like model car size. It is supposed to be in a vacuum as well which is very dangerous if there is a fire or problem.,tech
+I remember hearing that in 2000 car would be flying. It never happened.,tech
+I asked Alexa when we will see flying cars. We can expect this in cities in 5 years (2026).,tech
+"i think tehnology will become very advanced and a crisis will appear in the world and all these things will disappear or idk. i just... can’t imagine. and what will happen with these socialmedias accounts, YouTube videos, BOOKS , everything... are we gonna live a life or nah.",tech
+Before\n\nThey predicted there will be a flying cars on 2020,tech
+Why am I watching this in 3:30 in the morning?,tech
+melodysheep shows how technology will be like trillions of years from now.,tech
+I feel like the fear of AI is bs at this point lmao,tech
+"I really am looking forward to the good stuff future tech can bring to humanity, but knowing mankind, it will definitely turn to shit.",tech
+People from year 3050 watch an old video from year 2050 will realize human race used to breath freely on earth 😂,tech
+That clip with Lui Kang is Boss at 10:53,tech
+"Imagine not having a phone 😂, wait phones won't be a thing at the future?! 😳",tech
+2020-2040,tech
+"With development, I really don’t want to cut trees 🌳",tech
+I would rather grow my missing body parts back instead of prosthetics,tech
+Where is Neurolink? I missed it from the list,tech
+2250*,tech
+"Train crashes in 2050 are gonna create some pretty big explosions, kind of scary",tech
+One thing for sure is that jobs will be hard to find,tech
+"Youtuber in 2020: technologies in 2050, blah blah blah.... People in 2050: Lockdown because of Covid-49.",tech
+"Calling ""military strikes & surveillance"", quote: ""all very fun"" is deplorable.",tech
+"I also agree with the wristband one at the end, but just think of all the problems humans will have remembering things if technologies like this actually exist. The technologies would do everything for the humans and therefore the capacity to remember for humans will decrease. We can already see it happening with people who use smartphones, often they will have 30 people’s numbers in their phone app but won’t remember more than 5 - 6 numbers.",tech
+"I think AR glasses/contacts will be the replacement for phones, not wrist-based interfaces. Eye-based AR offers a lot more privacy and can do more than just show information like your phone, like show names of people you're talking, interesting facts about buildings you see and navigation information while you take a walk. And we'd definitely start approaching technologies where you can think things to this interface and it will do whatever you want without saying a word.",tech
+"In 1970s the prediction was that humans will fly in their cars by 2020. And here we are, teaching our fellows how to wash our hands with the proper soap and hand sanitizers",tech
+"30 years later, and I will be XXXyears old at that time. We will see...",tech
+Still waiting for my flying cars,tech
+"I really hope if the AI drones will be a thing in a future, they won’t be used by authorities to pass the judgement! Cuz letting AI decide who is guilty or who isn’t is veeery bad idea...",tech
+"I’m moving to the country if all\nthis happens, away from all this AI",tech
+"does anyone just wish they were born in the 3000's? born in a time where were so advanced that we wont miss anything after we already pass away to our afterlife? if I could be ghost I would gladly watch the future of humanity, upcoming technology and discoveries out of pure entertainment and enjoyment for eternity! aw man if i could be a ghost i'd posses a robot and tell start taking about memes from back in 2020 to some random teenager living in the 2300's",tech
+Who else watching this in 2050? I miss the 2020’s.,tech
+Gonna come back here to spread hate comments if this doesn't happen,tech
+People from 2050 are watching us and laughing . Like we do watching 1950s videos .,tech
+Awsome!!!!!,tech
+First survive that long mate!,tech
+Let's finish with our adventures in 2020 first\nThe year of Coronatechnology or whatever,tech
+I thought humanity was an advanced race until i heard of tik tok,tech
+World in 2050: people in lock down. Robots shopping and going to work representing us.,tech
+It’s 2020 and we still use the telephone poll for communication from 1844.,tech
+expectations: flying cars \nreality:: still quarantined,tech
+Ima be laughing so hard at this in 2050,tech
+I have given holograms some thought. They will be difficult to achieve unless a very low energy low cost method can be found for directing photons and electromagnetic waves. Right\nnow our best example is the aurora borealis.,tech
+Virgin hyperloop test I see in India 😍 but I don't think peoples did not like bullet train land occupation is hard in India 🥴 see you bullet train 2023 🥴,tech
+"I think will merge AI and humans together. We won't need phones or computers, you'll be able to do something just by imagining it. Also selfdriving cars and a colony on Mars.",tech
+I agree with the last one about schools being more interactive through the use of more advanced technology but just think about the damage that would happen to our eyes while being exposed to screens for such a long time.,tech
+If its a Cyberpunk 2077 world.. Oh boy I might as well die early lol,tech
+Year 2032: x-flare level corona mass ejection sends humans back to preindustrial age.,tech
+Ai companion and wrist phone. I guess I have to get to work,tech
+Ha. They said our school systems will be more intereactive....If they only would of waited a month o,tech
+"We only will use horse, blade, arrows in future. everyday.",tech
+"drones used by the military for strikes and surveillance\n\nThis Video: ""All very fun!""",tech
+I'd like to know who is this man at 11:38? I have seen him in many YouTube videos.,tech
+un paraíso,tech
+People in 2050 looking back at this video: they really thought...,tech
+"Huh ... So many technologies, yet nothing to promise a 3 meal day for every human on this earth! Useless growth!",tech
+"In the future, AI will assist you in thinking!!! You may like that, but me but I don't. . . You missed the commercial Maglev in China & Japan.",tech
+"Great progress in AI, Robotics and more important battery or other source of energy Mars colony not only possible but easy.",tech
+It’s weird that we ask what it’s like to travel 600 mph in a train while we already travel 600 mph in airplanes. We don’t have any problems with speeding up or slowing down.,tech
+I’ll be 47 By this time,tech
+"I this era of elon musk , anything can possible😮",tech
+"I can't wait the technology soon, I want to Ride in a Teleport machine earth to different planets in our Universe😅",tech
+There is also plenty of plans to expand on vr/ar sets with phones leading the cellular industry towards more Google glass type tech to replace some phones altogether. Yet we will see how it all unfolds.,tech
+7:45 “we’ve been to the moon many times” lol,tech
+"Damn , how many ads do you gotta watch?",tech
+Ima be 44,tech
+We want to know what is going to happen in the future.\nIt seems very enthusiastic and being dedicated well.\nSomething going to inspire everything new.,tech
+This will only happens if elon musk successfully send hundred thousands of satellite 🤗,tech
+Sorry...virus has put us back 10 years 🙃,tech
+Full dive tech would be nice,tech
+We can only accuratly predict 20 years into the future.,tech
+1980-we will have flying car\n2020-we have flying car but not be distributed because by covid-19,tech
+"I will be 74 in the year 2050 ,an old woman .I wonder if pills will be invited to slow the aging process by then lol",tech
+That is 30 years for now.,tech
+0:27 electric car\n3:25 hyper loop\n5:21 AI,tech
+Gonna be sick a A.I. Society I want to live in!,tech
+Actually guessing what future will look like is really tuff.. because just a century ago people would call you mad if you talked about today's technology ... also we're in a phase of exponential development.. science fiction gonna come true and also super advance AI can change humanity in days or just month... really excited,tech
+"I am thinking about a new type of restaurants : eating-spots,\nin eating-spots, food keeps changing, chefs also rotate,\nthis is opposed to current restaurants,\nthanks to this rotation of food and chefs, eating-spots are way more powerful than restaurants.",tech
+it being so difficult to pass 2020 by corona virus and you are talking about 2050😂😂,tech
+AI will be the only person i talk to in the future\n\n\nReal people are morons,tech
+Back in 1990 people would of thought we would of had flying cars by now,tech
+I think we will just lose a lot of sources at 2050 and we will start over,tech
+"Talking about drones that the military uses for strikes\n""All very fun""",tech
+Imagine if ur eye was near the watch and then the lazer thingy pops up lol,tech
+"Imagine people from 2050s seeing this and laughing at our ""predictions"". Just like we find funny predictions of our time from the past.",tech
+Lol because of coronavirus you should mention the year of 2100 AD .\n😂,tech
+I will still get to see all this I'll be 73,tech
+We are no where near where we thought we’d be in 2020.,tech
+In 2050 \nI will be 48 \nAnd I will comeback here,tech
+I love this\nPlease take my babies,tech
+They Are Doing At Amazon RIGHT now,tech
+7:39 is that a Marshan version of The Imperial City?,tech
+"I feel like 2060-2070 will be truly when people will integrate, til things go on sale",tech
+I will be 40..its tough.,tech
+I can’t wait for hyper loop no more long drives,tech
+I can help but think the future humans will be like the ones on the WALL-E movie .,tech
+jeff wittek,tech
+The Lev trains should have happened a decade ago we had the tech then to build them albeit the cost was much higher but we had it.,tech
+1950: i want a nature\n2050: i want a futere,tech
+I hope i can fly 😊,tech
+"All the historical events that people have lived through, have shaped the future. It is going to feel weird talking to kids about what life was like before robots and flying cars.",tech
+"2050? If Bill Gates has his way, we’ll never even see 2050. We will all be dead from his vaccine 💉",tech
+I'll pass on the drones. The main use will end up being for surveillance on the population.,tech
+Super !,tech
+They have to get Earth Gravity and a way to combat cosmic radiation and the Van Allen belt.,tech
+I think the only thing we should focus on is improving our own IQ with chips in our brains. And if we have figured out how to become 100 times smarter or even more we can focus on every other problem and these problems will look like nothing than,tech
+"There will be enough changes for the future because we will have electric cars, cars without driver and most likely there will be autonomic ubers there will also be drones to replace the homes or deliveries that we have to make quickly, There will also be electric trains like the Hyperloop that will be much faster and also the AI that I do not think are good and ultimately very important for me are the prostheses for the future as they will serve too much for the people affected by the war.",tech
+Mfs born In the 90s mad they won’t see the day,tech
+Watch for this comment. I will return for it 10 years from now.,tech
+If there a genie\n\nMy wishes\nImmortality and invincibility (even a nuke a gun or a missle or a 1 million firing squad cant kill me),tech
+13:50 The boss entered the room! Quick! Look busy!,tech
+I wish I could have been born in 2081,tech
+"Even in 2020, we are teached how to wash our hand",tech
+60’s and 70’s in a narrator voice : By 2020 We Will Have Flying Cars. Cars will look like this Model we Built Future will Be great\nEveryone in 2021 : ahaha... flying cars huh..,tech
+"Nice video, \nbut you should change the music, i almost slept to it.",tech
+I honestly like the world how it is I wouldn’t want all this high tech stuff I think it’s perfect the way it is,tech
+Idk man imo they've really dropped the ball on the progress of technology \n\nTechnology wise we're a good 20 years behind where we should be right now,tech
+First take me out of my home,tech
+We want more efficient medical technology 's for live.,tech
+Who is watching this video to complete his/her assignment..??😀😇,tech
+"Self driving and electric cars, but you didn’t show a Tesla but showed a BWM",tech
+The future is at your finger tips for just 12 easy payments.,tech
+Humans:world in 2050....\nWorld:hold my corona.....,tech
+"Just make c3po and r2d2 robots so even if they think of revolting against humans, they are simply unable to, given their lack of flexible movement.",tech
+Google Nuralink.,tech
+"I think trains, drones , AI will be more advanced, i really like the idea of smart clothing to protect from guns n knife harm, i am really looking forward to that AI develop system to recognise perpetrators, rapists and terrorists and stop them before they harm or kill anyone.",tech
+What i want is a mech and robot to be my friend in the future,tech
+Technology cannot prevent us from pandemic😔😔😔😔,tech
+Remember the 1950 video on YouTube? The one where people guessed the tech of 2000? Lol.\n\nThey were waaaayyyy offf. xD,tech
+I’ll see y’all in 30 years. I’ll make sure I leave a comment on this in 2050 (maybe),tech
+Imagine a flying train hmmmm 🤔,tech
+How do I get this graphics This are awesome ?,tech
+"In the evolution that technology has experienced, I think that changes such as the improvement of communication tools like cell phones and having cars with self-driving capabilities, contributed with the progress of the humankind. Also, for the future, I visualize technology as the mean to reach important milestones such as space trips and migration to other planets, but this will affect the way humans live their life and the social relationships between them.",tech
+"I think in the future, instead of people designing a product or form, AI and software will be doing for us.. It is already happening now and in very low cost systems such as Fusion 360 and Rhino Grasshopper 3D CAD as shown in this video https://youtu.be/c8HWGoA-scE . Exciting or stressful times ahead.. depending on how we see it.",tech
+"so military strikes are fun? murdering usually innocent people, such fun times",tech
+I will be 47 in 2050 right now I’m 17 😂,tech
+Loved it,tech
+Meta materials \nInvisibility \nAI chip implants \nLimb and organs replacement grown in labs,tech
+Why do you do so much technology vids there odd but interesteing.,tech
+"I’m under the impression that come 2050 this things WILL become a norm. Look at cellphones, in the 90’s they were considered a luxury where now, they have become a norm.",tech
+"Predicting the future 10 years ahead is difficult. Predicting the future 30 years ahead? Practically impossible - Especially in these times.\nStill - I guess you got most things right, except from your presentation of the ""smartphone"" of 2050.",tech
+'They' said they could build an oil pipeline 1000 miles that would not leak.,tech
+I doubt 2050 will look like that. Maybe the year 3000,tech
+Lol at this point everything are becoming cap in my eyes adios people,tech
+"There is no ""future technology"" in this video. All of that already exists and will be wide spread in next few years, not in 30 years.",tech
+So everyone will become Clark Kent. Wearing pyjamas under your clothes.,tech
+Man basic needs is forgotten in the name of advancement.\nPeople not interested in present building. But future.,tech
+THE only thing which may not change is me being poor who still can't afford recent technology.,tech
+"Based on what I've seen on social media re Gen Z/A/young folk, I don't imagine any great advancements in technology.",tech
+Who’s here from 2050? Me,tech
+"AI - will be just like any child,its how you raise them,experiences it has,what type of ..for lack of better word,,,persona they become,that will ether decide the outcome,i suspect ,there will be good and bad AI,just like people,there are many AI being created.",tech
+We all know how inaccurate predictions are. But they are fun,tech
+All someone has to do is follow the drones and steal the packages when they land,tech
+"The smooth persian informally coil because description acceptably calculate beneath a windy evening. meaty, illegal patio",tech
+"I’m a tech enthusiast, but when it comes to replacing lost limbs, I hope scientists can make artificial skin, flesh, bones and nerves, and connect them to the rest of the body, instead of having metal limbs. Also, about having surgery and replacing limbs and organs with robotic ones, no. Just no. I want to wear the advanced tech, not turn myself into a droid.",tech
+"1:00 - 1:12, cracks me up",tech
+"You guys should be focusing on the fact that we're going to have neurotechnology within the next 5-10 years, where we literally wont even need to speak to each other anymore because we'll just be reading each others minds all the time, and we will also be able to heal yourself and let paralyzed people walk again.",tech
+Don’t have high hopes Tik Tok will have a even worse version of itself around by then,tech
+"If there are flying cars and drones in 2050, how can you make a path in the sky for each?",tech
+I think 75% of these things will come in 2500 not in 2050,tech
+2020:this is how you wash your hand,tech
+Drones are the future devices that can be used in space too if there's an atmosphere with little wind resistance or weather conditions that won't destroy the device.,tech
+amazon already has some kinda of a big plan with drones or something similar for transportation system,tech
+Can you find a remedy for covid19,tech
+you are too timid. These are the minimums as far as tech is concerned.,tech
+"The growth of tech allows us to grow more tech faster which allows us to grow more tech even faster, and so on so forth",tech
+"Maned missions to mars are probable, but fully conscious robots aren't likely. Automated vehicles will definitely be a thing by then,",tech
+"""........... from Your point of perceiving"" \nHumanity's bigger than that.",tech
+"Yeah, drones delivering things - CS:GO Danger Zone.",tech
+"The hyperloop actually went bust. Sealing miles of tunnel was a huge problem. Also, the vacuum creates structural damage because of the high stresses put on the tubing walls. The tunnel Elon Musk built is now decaying and unused. Testing abandoned.",tech
+"In 2050 they will have living, talking pizzas.",tech
+The world if Pi’erre Bourne dropped Open Up,tech
+By 2050 we will have to watch 4 HOURS of commercials to watch a 5 minute YouTube video.,tech
+"The technology will have great effects in the\nsociety because this will replace the work of the humans, in this moment we can\nsee that it isn’t necessary work from the office, we have access to\nvideoconference and many new things. The virtual commerce has evolved too much",tech
+I'm going to get robot legs,tech
+I don´t know. It´s all possible and such but I think 30 years is not that long to be honest. I am happy if fusion will work at some point in the future before I die.,tech
+Imagine a hologram phone. You'd have no privacy. Nudes would be a thing of the past.,tech
+"I’ll be back in 30 years, financially free and enjoying life on my terms with my daughter and lovely wife. \nCan somebody remind me about my comment when we reach 2050😊",tech
+"Fast and slow transportations should both be part of an intricate network. Quick and fast and slow, underlying regularity.",tech
+Can't wait,tech
+"I am 21 now in 2020. 2050 seems so far away now. Can’t imagine how it will be if we really have reached 2050. I don’t expect a city like in this video. I don’t think it will be as futuristic as it sounds now. But I think we will have different, more advanced technology that we have now. In the 2000s we still used ordinary cell phones with no touch display. The smartphone advanced very much in the last 13 years, since 2007. It will be interesting to see the changes in the 2020s, 2030s and 2040s. I think we will have some new technology. Maybe we have a digital „smartphone“ in 2050. So it’s not physical. I hope we won’t have to implant a chip to live then. In such a world I would never want to live. I also hope that technology won’t replace all the things that make us humans. I will hopefully come back to this comment in 2050. It‘s on a youtube playlist and if I am still around (I hope so) I will react to my expectations. See you in 2050.",tech
+2050 People of the Year 2050,tech
+People expected flying cars in 2015 and now idk what to believe 😂,tech
+Weebs will get there waifus 🤩😍,tech
+where have i heard this word 'utopia'..pls help me,tech
+In 2050 the world will be a dystopia and underwater...,tech
+In 2050 Gaming will be like in SAO byt with not just MMORPG's but all types of gaming,tech
+Sucks we wont be alive for such a long time,tech
+I’d much rather have AR (augmented reality) contact lenses) than a wrist watch because a wrist watch... it seems to not be progressing much. The step towards AR contacts or AR glasses which are well in the making with a few versions already being released. I think this is much more accurate than a watch. Just imagine being able to have screens anywhere you want or have directions to where you’re going in digital arrows you can see in real places around you. The possibilities are endless with augmented reality.,tech
+Hopefully body microchip AI aren't used as implants that could be remotely hacked. Think watch dogs and terminator.,tech
+What about Flying Cars ? Or are those personal helicopters that are not much bigger then a car the future for casual travel? None of that was mentioned in video.,tech
+awesome technology in the future,tech
+13:21 we know what they are watching !?,tech
+"For as much as we know we could all be dead. Not even the 1% cares about the future, cause the future is now.",tech
+Holographic screen is my favorite but not possible because we need something to project images. Space without any medium can't support images,tech
+"Brian Fanzo, Virtual Keynote Speaker, Digital Futurist speaks about Embracing technological change on Engati CX. He says that Lot of companies have been incorporating tech in their business during their digital journey. Learn more on : https://www.youtube.com/watch?v=7W6JvetJz_c",tech
+Technology is in the hands of the evil. Like the movies we see.,tech
+I really don't see drones delivery pizzas in skyscrapers like Manhattan... where you can't even open a window but hey they have AI who knows!....are they going to knock on the door?,tech
+"We have apple watches already. More likely it will be a phone you wear around your eye as a goggle or an ""insertable chip"" type phone. All with holographic capabilities",tech
+I love it😁👍👍👍👍👍👍,tech
+If half the planet won't get wiped out by viruses etc.. then maybe it will be like that.,tech
+Vừa rồi nó lại rút đúng cấp độ tăng với mọi người à. Tuổi l gì mà mang tiền ra thể hiện với mọi người. Hư...,tech
+People in 2050 will be watching this video the way we watch prediction videos from the 1960’s; laughing and scoffing at our outrageous and pointless predictions.,tech
+Technology will grow exponentially the more high tech the more higher tech things will become,tech
+Its 2020 and corona virus is killing us!,tech
+I am not a hater for the future or anything. I just believe we have to be careful and not on our buts all the time. Plus wouldn’t factory conditions be good enough for us then.,tech
+Super expectations but is that happens,tech
+Id really like to have the holographic gauntlet now! And living on the Moon or Mars. Im really looking forward to the future! Oh and if anyone sees Elon Musk tell him I have a few ideas,tech
+"6:11 \n\nInsane Curiosity: ""and by 2020""\nMe: Its 2050, not 2020",tech
+I see future to be bright if and only if all of you are mentally healthy.,tech
+"anyone else find this extremely funny\n""and school, yes it sucks""",tech
+"I don't think handwatches will replace phones, because they're less convenient since you can only operate them with a single hand. That makes it so much harder to type.\nInstead, what will replace the phone will likely be some augmented reality glasses or contact lenses or brain interfaces of some kind. We'll no longer need our hands to do things, it'll all be via thinking.",tech
+the ps10 is probably going to look like a refrigerator,tech
+hah i made my bot conscious,tech
+I hope it'll come true,tech
+"You skipped 2 of the most friendly and useful jobs for drones. Wildfire fighting and farming as in spreading seeds, water, and insecticide as well as monitoring distant field plant growth.",tech
+"😂😂😂😂😂\nWhat?????\nI don't believe ,,\nWe just learned how to wash hands,in 2020,,",tech
+Imma be old as f**k 😳,tech
+Well not feelings more of simulations of feelings. So like animals they will develop instincts to protect themselves.,tech
+"14:50 Gauntlets can not take pictures like phones, have you ever thought that?",tech
+Some of this is actually really cool,tech
+This is the best pictures and videos,tech
+And then came COVID-XX...,tech
+Love the fact that in 2050 this video will be incredibly dated!,tech
+WE HAVE THIS TECHNOLOGY NOW,tech
+i was thinking about a bracelet with hologram money,tech
+Are we sure that humans exists in 2050 🤔🤔🤔,tech
+"I'll be back 2050\n✅January 10,2021",tech
+This is comentator konami winning eleven ps 2 ?,tech
+What if we could build a giant drone that could carry passengers?,tech
+The phones 📲 are badass 😲 I wish I had one right now shit that would be awesome 👏,tech
+How about ai flying dragon's that spits water to rescue from wild fire,tech
+"clothing is already expensive depending on the brand. now imagine nano tech on that, big brands would be stupidly expensive.",tech
+"Hopefully the year 2020 would be a year to learn lessons and by 2050, diseases would almost be eradicated",tech
+Aathulu em kadhu,tech
+In 1980 they thought we would have flying cars in 2015,tech
+There better be my flying car !,tech
+2:33 this already has happened there was a heart transplant and a drone transplanted the heart and it was successful,tech
+Imagine the technology in 5050,tech
+You don't want these hands on Killer Instinct,tech
+"What happen to the flying cars, they said we all would be flying, by 2000?",tech
+In 2050 my mind will be gone🤣,tech
+I want a chip embeded into my brain,tech
+Or the engineer's gunslinger hand/arm...,tech
+I love it,tech
+There goes our jobs 💀,tech
+2030 is way to soon for the Mars thing. Remember back in 2000 they were talking about visiting Mars by the 2020s. Well......,tech
+2020making basic robots 2050robots rule the world 🤖🌏,tech
+"""...school, yes it sucks""",tech
+maybe in the future they can built a magnetic levitation car .,tech
+How did this guy get so many stock videos lol,tech
+How could they be called drones if they are controlled by remote controller.,tech
+man every single things are possible !! i thought holograms are not possible but they are even physician agree like they gonna use something called crompton effect to make holograms >w< prototypes are already made !!,tech
+Before every big changes there were wars.,tech
+The coronavirus probably set us back a decade tho,tech
+"I'm only gonna sit in a self driving car, When it's proven save....",tech
+2020 have more expected but it gives CORONA viruse\nThen what happened in 2050🤣\nIt's 50times more expected than 2020 \nLet's see what it will gives😂😂🤣🤣🤣,tech
+What People Nowadays expect In 2050 ?,tech
+Can you imagine no technology in 2059 ?,tech
+My uncle asked do you know what would be like in 2050?. And i said would be futuristic? And he said yes something like that. Me: OMG I WILL BE 46 yrs old 😭☠️. Im 16 everyone this is sad ☠️. I don’t want to die,tech
+I’m sure none of this are gonna happen because of the ongoing virus a lot of countries are struggling financially so don’t expect all of this,tech
+9:57 he has a built in fleshlight?,tech
+90s people thought the same about 2020.,tech
+I'll Be Back In 30 Years.When I'm Almost 60 See You Guys In 2050,tech
+13:22 uhm... What are they looking at,tech
+I might download this video to upload it again in 2050,tech
+0:01 apple watch 50th generation,tech
+I don’t know if humans will last to 2050,tech
+"I was excited about the idea of self driving cars as a general concept initially until I learned more about urban planning, city layouts, and how some European cities handle cars.\nNow I realize self driving cars isn't an advancement at all, its just a bandaid to fix a horribly broken system that was a bad idea from the start, when it should all be replaced by proper mass transit.",tech
+"I think the next huge thing will be ""mind/machine"" interface applications. It's not fantasy, there is actually a lot of work being done in this field already. Imagine being able to surf the internet or pull up a google map in your head anytime you want. Going to China? Download the Chinese language app into your brain and your can speak and understand Mandarin. Of course there would be many downsides that would have to be addressed as well, you would essentially have a tracker in your head at all times and a hacker could literally hack into your brain and steal information, or worse plant a computer virus in your brain.",tech
+I’m just scared of a.i killing us all in some terminator shit,tech
+"1:00 - 1:11 Describes US Army attack drones as ""very fun"".",tech
+I do not know If I will live in 2050.,tech
+"Who gives a damn what technology our kids will have, i want it now!",tech
+"I think teslas are pretty cool for this age, maybe some better new renewabke energy. Oh, and maybe a person to rule ove the galaxies would be cool. Dont mind that last bit thats for palps to see.",tech
+I hope we have a cure for baldness BEFORE 2050.,tech
+Hopefully these magnetic trains don’t smash your ribs,tech
+"Ravi Visvesvaraya Sharada Prasad, Co-founder & Co-Chief Executive of 7GTech talks about the impact of AI on telecom on Engati CX. He believes that automation reduces human error, AI can help the customers solve their own problems instantly. He also explains how nature plays a key role while designing the technologies.",tech
+See you at 2050 😬I wish I live that much age 22 now 😆 who knows what happened next (Corona 😈) 😆😆🥴,tech
+Or 2050 will be the neo Stone Age....,tech
+Fusion power should be on this list.,tech
+"Able to make it virtually, then how far is reality?🤔",tech
+Hoak..blm secepat itu..30 thn dr sekarang..technology ini msh butuh bnyk generasi baru bisa tercapai..,tech
+"Ugh...everybody wants we will have flying cars and stuff...\nI know people are smart, but not too smart, i think in 2050 the life is still same...who knows, its a furture!😑\nEdit:Sorry for my English",tech
+the last tech looks almost like the mutitool from mass effect !!!,tech
+Love your vids. Also have a youtube channel,tech
+Sorry for the long comment. I am just saying how our free will can make us more faster and more powerful then AI’s. We just gotta not be lazy. That’s all.,tech
+At 2002 i heard that we have flying cars at 2020. Right now even flights can't fly..!,tech
+"what about job ,education and family structure",tech
+I think molecular computing would be awesome,tech
+It would be funny if by 2050 the whole world turned Amish,tech
+would you stay on a resort on the moon???? Just curious,tech
+I just want them to invent cryo tech. Meaning freezing pods that can se stain life,tech
+I wonder what the future will be like,tech
+I don’t know for the smartphones that goes to watches. Smartphone is also a camera today. Filming with your wrist is not pleasant. \nI don’t know how 2050 will be but I feel the need to capture films and photos will grow more than be extinguished.,tech
+or we could have a device that lets us send mean comments on yt while were in the bathroom....\njust saying,tech
+Nothing could go beyond nature,tech
+"10:04 -- yeah, I saw that movie. It's called Robocop.",tech
+I don't think we're going to go with the wrist phone more like a eyePhone,tech
+Can we cure pandemics also ??,tech
+rip youtube isn't working for me but the comments will visibly confused,tech
+In 2050 people will search on YouTube technology in 2100,tech
+The Venus Project 💓,tech
+im in the year 2050 and this virus,tech
+Only thing left to build is a time travel belt,tech
+Sounds like a a lot of these will cost millions of jobs.,tech
+Was that a meme?lol,tech
+5:50 what a dystopia.,tech
+Disney would of probably bought out Amazon.,tech
+"According to the video differents technological devices could mean a new way to life because those will be created to facilitate the life in order that humans could have a better life, which it will be so easy, comfortable and sophisticated. For example your would have a car with self-driving, also you could use drones like a machine to transport your personal furniture.",tech
+Let's hope that we don't make anything like cyberman or terminator.,tech
+"Ok, if we have machines doing like actual jobs there will be huge employment, I don't want technology to advance so much in my lifetime :(",tech
+Let's hope we are over war and injustice,tech
+"In 1960s we people were predicting flying cars amd mars colonies in 2020..but we are nowhere close to such things.. And if the China vs The world thing heats up, tech development will definitely take a hit",tech
+All this is possible by 2050 only if we don't nuke each other back to stone age before then,tech
+"Please I don't want to die a silent I live with my grandma me and my younger brother nature did not allow us to know our mum and my grandma is very sick now we don't have money to eat not to talk of taking her to hospital ,please help us with any amount please",tech
+What r u time traveler?,tech
+"At 7:16 he's like: Eh, eh? eh",tech
+I guess I'm still around at 2050,tech
+My school has 2 VR headsets and are only used for gaming during certain free times.,tech
+Future outfit almost like generator rex power,tech
+Tbh I just want a vr headset that will the me experience sword art online :D,tech
+My problem with AI is not I believe that they will be a great war with humanity like in Terminator but if you're setting out to make a self-aware computer or robot then stating it still property then you're trying to build slaves and that feeds the point and technology the last thing I want to do is get an argument with my toaster asking for its freedom,tech
+"by 2050 you will be able to grow your own limbs, teeth etc.",tech
+jobs have left the chat,tech
+"The title reminds me of a magazine I read from the 80s that said by 2000 amputees would have a robotic leg (not the dunkable iconic legs you see today) \n\nI highly doubt the future will drastically change by 2050 simply bc not much has changed from the 80s and by that I mean flying cars, everything chrome, very very advanced face recognition, I mean come on man",tech
+I think in 2050 building a stadium would take less time!,tech
+let face the covid before we are going step another 50 years,tech
+Existing but also kinda scary,tech
+i wish there would be much use of turbines and solar and a alternative of woods for decreasing cutting trees.,tech
+By 2050 ill be 50 year's old.,tech
+What to do to fit with the new world,tech
+"We must protect our environment nature for our selfes. We must do cycling ,walking without transport and plant trees beside roads and must through mango seeds or seeds(which we through for waste)that are capable of grow like neem fruit-seed plz help #plz help ouselves # and also we must not be slave of robots or fully dependent on robots # robots #",tech
+World in 2050! Huh..... if we make it.,tech
+"WALL-E should exist so he can create towers, then we talk it down and burn it",tech
+Man this is scary. I wish the world was like it was in 1980 again... I'm 19 and tbh I am not a big fan of all this new technology that is taking the place of humans. They should hold their horses with all this stuff,tech
+Be lucky we alive not a few bricks,tech
+All hail to elon,tech
+Quick answer: we will get hit from an meteor maybe since even in 2050/2100 it’s going to be very hard to detect an meteor,tech
+I think ill be an adult in 2050 because today I'm 9 years old. \nEdit Ill be 39 years old 0-0.,tech
+I use drones to record my crush next door,tech
+well it’s the future only 2 months in and Tesla’s are now fully self driving with there fsd softwares,tech
+People will be hunting and eating each other by that time.,tech
+you dont sound like you know alot about physics and this topic,tech
+What if we mixed nature and technology together,tech
+We are all going to be so disappointed. Like I can just imagine my disappointed self just staring out the window at disappointment.,tech
+"The world in 2050 will be an overpopulated world. Polluted as hell, and I'll be only 48.",tech
+Coronavirus: Hold my drink,tech
+Its very interesting but first we have to fight nestle,tech
+It 2020 and I am about to be 16 In September 9th I was born in 2005 in 2050 o will be 48 years old dam am be so old 😂,tech
+"Virgin galactic hyperloop?\nUh I think you got some facts wrong, Insane Curiosity.",tech
+⚠🚧,tech
+we go to have all this in 2050 wow,tech
+... but they have no knowledge of a small carona virus ...,tech
+"I think by 2050, humanity will start to discover supernatunal human beings. \nAny1 think the same?",tech
+First ask world to discover coronavirus medicine,tech
+Don’t believe it! In the 90s they thought we’d have flying cars by 2010.,tech
+"I dont like where the future is heading in terms of technology. Almost makes me want to commit suicide. I wish I was joking. I dont know if something is wrong with me, but im 14. So I have time to hopefully experience what the future is like.",tech
+This is not future technology because it is the same technology we are using to day,tech
+Speed to achieve goals has effect on the technology evolution.,tech
+Only if I can reach 2050 and I'm 15,tech
+sureee,tech
+We need drone cabs,tech
+I don’t see anyone spying on us weird,tech
+The most crazy and ultra technology is human like every life form.,tech
+I dont think we will still live withoit phone though that thing in your hand is pretty hastle,tech
+"I think that the medical technology innovations will carry on the good medicine and It will healthcare almost every single day. As a result, The medical technology is such artificial intelligence innovations.\nThe technology will affect the human life because the people will make of sedentary lifestyle.",tech
+I'd be dead by then,tech
+We really need to get rid of alot of abandoned buildings and streets and figure a way to clean the earth first so that we could have a much better way to invent and invest in the rest of the world,tech
+In terms of Ai we want Jarvis not skynet haha,tech
+I did not use computer in 2000.,tech
+every year humans evolves,tech
+"If we froze in a freeze box till 2050, when we wake up, it will be interesting to see the new world, at least it removes the boredom of having to todate live day by day looking at the same building by the second, it's excruciating passing the seconds. Also, putting the human mind in a chip into a robot ,but you have to maintain the robot material from corroding over time, so there is no one material that you can put the mind chip into that will not corrode. So got to find that material..i suggest maybe granite,or jasper stone, which does not corrode. But when we wake up, and after looking at the buildings, we will get bored again, then we may consider freezing again, but the world doesnt get built that fast by the second, so we cant wake up that often, unless the world could be rebuilt a new one by the second,then we will stay awake without getting bored. That's the point for living- a non bored state.Otherwise no point staying alive. The point is: how to sustain the interest of living,that is the main issue,to remove the idea of dying or stillborn at birth- the reason or point of staying alive.",tech
+In 2050 I will be 47 years old ☹️,tech
+Same thing they said in the 60s and 70s about the the 2000s i dont see everyone driving flying cars or living in sky homes like the jetsons.,tech
+They are already in a timeline in 2050,tech
+A G E N D A 21 😬☻ high tech dictatorship of the future,tech
+We only need 29 more years from now,tech
+"The pattern is too small, 2050 will never be as low-end as the video display. 2050 could be better.",tech
+"Let see, we are 30 years ahead of 1990, what change in energy , almost nothing (except internet and cellphones), so if a new types of energy are discovered , it will be almost the same or worst.",tech
+2050 ?? Apocalipsis already arrived,tech
+We're? Oh did you mean the smart ones among us?,tech
+I know its probably not possible but what if we found a way to pull Mars to us. Would we end up colliding? Or maybe Mars would sit next to us and over time start becoming a second Earth.,tech
+"Honestly, too much technology is not a good thing.\n\nIt’ll make people lazy and could even end up taking your jobs.",tech
+"We can say that among the changes that we will have in the future with technology would be fully electric cars, also, there are even plans for self driving cars that make the future transporting very exciting. As we get closer to 2050, we will develop more technology and we will have the possibility of knowing and exploring another planet like Mars and colonizing it thanks to the help of programs like Space X and NASA. I think it will affect a lot since many people in their jobs will be replaced by machines, robots or simply artificial intelligence will do the job for them.",tech
+I'll be 61 in 2050 :O,tech
+"One thing you didn't mention is electronic implants in the brain allowing direct access to the internet and direct brain to brain communication. The first simple experiments with such things have already been done on animals. If such systems are not in use by human beings by 2050, they will be well before the end of the century.",tech
+14:53 so basically an Apple Watch?,tech
+"The Venus Project is an organization that proposes a feasible plan of action for social change, one that works towards a peaceful and sustainable global civilization. It outlines an alternative to strive toward where human rights are no longer paper proclamations but a way of life",tech
+"Coronavirus said ""try again next time""",tech
+Who is watching corona time....,tech
+It will be 4020 before any of this,tech
+They wont be any world In 2050 The great tribulation will come soon amen god,tech
+13:51...ain't that a movie?,tech
+"The technology will chance our life in almost every way to do things, currently labs are testing electric flying taxi, the company hopes it will working to carry on passengers by 2022, \nThe accident´s motorcycle could be reduced, the BMW is testing a self-driving motorcycle, in the future the bike will be drive by robot that means less crash on the way.",tech
+I want a self driving car like a Tesla.,tech
+I think they gonna start putting guns and shit on drones..,tech
+"Hmm yes 2050, I smell pollution and a failed society",tech
+We dont really know what happen on future maybe our world destroy or what,tech
+"2050 might also see accelerated medical treatment and vaccine responses due to the COVID-19 pandemic. Such a rapid response and mobilization of global organizations may also inspire such mass collaboration to cure additional viruses and disorders particularly as global governments realize the importance of comprehensive pandemic responses, pandemic responses, and the overall interest in using such forces to cure diseases that still plague our species",tech
+"I think it’s pretty dramatic the number of technological advances that we’ve already made, so I don’t see technology slowing down & I see a lot of the challenges that we face now over come so my concern is not the technology of the future because we have to survive through this period in order to get to the other side, so we have to figure out how to talk to each other & not at each other or over & around each other! We got to figure out how to stop this misinformation & be able to quickly dispel conspiracy theories & above all else we have to be intelligent enough to know the difference between true leaders versus those who would lead us astray! So one of the things are schools and institutions of higher learning must start to teach and evaluate and that is the ability to be able to think critically and to use sex and other technical data in order to inform you were thinking and other words not just about technology was about the human capability to be able to analyze and to know the difference between right and wrong! Something I think that is critically missing today in some our thinking! So it’s important that we have a government that recognizes that it has a responsibility to never ever lie to the people and listen until we have honest government with leaders that understand their responsibility and a system that can hold them accountable we are in serious trouble!",tech
+"The ""Boom Tube"".",tech
+We have fully autonomous drones already,tech
+They already do drone delivery in China...,tech
+So basically drones will be the new pollution.,tech
+13:49 - you mean like a video?,tech
+I have a future idea dronplayns a chain of droncars like a Playn but it’s a flying train what I mean this thing must be conceited to use it clever it’s must can take very moor Batteries or Passagers a normal Droncar has a low battery time an it’s to smal for a Solarpanel which we can bring on top of a Dronplayntrain it has a ability from a normal Dron like start vertikal fly like a German Deutsch Helikopter Typ Tiger and can Splinted splitted of in many one droncars if you whanted it and as a Part change the way in City but as one Thing can fly longer has better airodynamical Luftwiderstand Moor energy recuption as Moor pleace to solarabsorption as. And it’s like a normal Plain but with oute of fioul oil Benzin Kerosin and it wouldn’t be have Co2 Oxidation plus dass es can used as a normal Taxi on city or a normal Plain vor short Flays und it’s like a Hyperloop but realistically as we’ll be will buildet gebaut on this Page sorry but Iam a Germany Man 19 and i can understand the Languare Inglisch of England but sooty because it make no cince to take a lot of rong fales Buchstaben ABC in words which I don’t spoke way is sis the World Languare! Come back to my creation is it cool than please talk to Ellen musk and says to hem bevore you flay on the Mars you can build a Hyper looping thing of my mind and when you’re do it than I will learn English so good like he has do it it in Afrika but I learn it hir. Thank s for you Poaples to hearing me Ide,tech
+"Looks like your research conclusively comprised of typing the word ""future"" into Shutterstock...",tech
+"Drones? i don't know about that because since they're going to connect everything to extremely fast Satellite Internet they're calling ""5G"" What if it goes down? all those Drones will come crashing down lol, it won't happen near as much as it currently does but it's still possible to D/C or Servers go down which do so quite a lot so... i don't see it working enough, i don't want my Takeaway splating all over the road over it gets to me LOL.",tech
+I dont see flying cars. I see aliens in 2050,tech
+Yes there is no doubt about that we touch new heights in science and technology but we will distort the nature also. So I just want to say that you should also add the information about the nature in the 2050,tech
+No body Will be in live the World Will go Down\nBefore 2050,tech
+Only 20 years left then how 2050?,tech
+It's fun.,tech
+"Technological advances have brought good and bad aspects, good because they have made contributions, for example, in the improvement of communication and health, negative aspects, such as leaving man aside, which is being replaced by robots or intelligent machines , which supply man.",tech
+"In 2050, There Will be a Nvidia GRTX 330 Series, The Future of Gaming PCs!!!,",tech
+No holographic screens the future would be smart goggles or lenses,tech
+who writes this vo copy? is it a bad translation from another language?,tech
+Am glad I would be dead by then......,tech
+Esto es una tarea de jaime,tech
+"Oh wait dude, he's talking about 2150 instead of 2050 🙄",tech
+"""can you believe we'll even have self driving?""\nUh, we do, I use it every day.",tech
+"""or the drones used for strikes, all very fun""......WHAT!???? NOT THAT FUN GETTING BLOWN UP!!!",tech
+Then government already has all of that,tech
+I wonder what will happen to the wealth and income gap... Will we have high speed trains from Sudan to London? Guatemala to Las Vegas?,tech
+I don't think we can pass this year though,tech
+That guantlet is cool,tech
+"hell, I just thought of something that would be a project I reckon the whole world could happily agree on; Cleaning up our Space...and turning the scrap into useable materials. in short, seeing to it that the space-debris can be made useful again. NO WASTE.",tech
+I was wondering how jobs could go in 2050.. how gov taking care tons of those unemployed people,tech
+1st step towards destruction.,tech
+In 2050\nHuman can excrete online,tech
+Re: Hyperloop Train...so the presumption that the tunnels themselves won't disturb wildlife...🤔Hmm...what about the energy source? That enormous power source won't effect soil minerals or cell structure in plants and animals...riiight!,tech
+Sorry to break the news but it's 2020 and most of this tech is already here. 📡,tech
+I'll be 48 in 2050 yikes,tech
+"by the time 2050, I will be 48 years old. This comment Marked here. if I am alive I will be backchecking.",tech
+uhh we will never know what will happen in 2050 cause were humans not a witch\nBtw im not hating im just not sure if this is actually reality \nas i said maybe there is no future?...\nWE WLL NEVER KNOW..... :'),tech
+they will finally sell livers 4 people 4 cheap! they will deliver via drone with gravy & onions!! Capitalizm is great....,tech
+"Technology will change in the sense that in most of our activities we will be replaced by artificial beings such a robots,\n\ntechnology as we get closer to 2050, will be powered by artificial intelligence robots, both in the medical field and in other aspects, by drones and cars that are driven without a driver",tech
+"Seems as though technology is becoming more and more about controlling the population than helping. Of course it is being very cleverly disguised as helpful. Drones will eventually keep a close eye on all of us and all of the data that's being collected right now by our phones, tablets and thermostats will be used against us. I'm glad I won't be around much longer. Good luck to everyone.",tech
+"""Falcon 69 Activate!""\n*Caw caws into the wind",tech
+...transform(ing) (it) into a [Tile (app)]...,tech
+So there will be drone hunters in 2050.,tech
+"2020 was a joke, lol we talk alot for a specie that's just good at ruining things now.. even this video wouldn't be accurate in the future",tech
+funny thing is most of this are happening already in China! while America too busy creating they own enemy to go to war!,tech
+"A brain chip. Neural Link, You would not need your phone because Android is in your head.",tech
+Is everything going to free ps how spew get money,tech
+Im glad im 52 in 2050 hahahaha not that old,tech
+Singularity,tech
+"The world’s technology is 2050 will be a dead planet, and ocean!",tech
+Voy a descargar el video para comprar en 2030,tech
+AI is cool but some person is gping to corrupt it and turn it into a killing tool,tech
+What in 2050 ah???? No i am expecting if it happens in two to three years after or in this decade,tech
+Wow.,tech
+E O LUME ROBOTICA CU ROBOTI SI COMENZI RAPIDE . CYBORG SI DRONE CARE FAC INREGISTRARI VIDEO .,tech
+Their is no 2050 the world is almost ending,tech
+Nooooooooo,tech
+"Clothes that maybe bullet proof, fire proof, can enhance your speed, strength, agility, and stamina, and would even allow you to fly?! Is this fact or fantasy?",tech
+In 2050 I'll be old😫😂😂😂,tech
+In the future there will be no need for futurists to predict the future.,tech
+Digging a hole from east to west coast USA? Ye that's not going to happen by 2050...,tech
+Whose to say the planet will even be here ???let alone Us?,tech
+"The tegnology will improve human life in everyday tasks such as transport, health, safety, education and help the environment, the tegnology of the future will positively affect us by it helping us achieve goals such as colonizing other planets, we are close to creating intelligent tegnology that exceeds expectations and changes the way we think about ourselves.",tech
+"The development of a flying machine will realistically not happen from one to ten million years from now.\nNew York Times, 1903.",tech
+#USA4LIFE & #DumpTruckDriverNoMore\n#Class A Learner's Permit\n#ShareOnlyToU.S.&MeOnly\n#I'mSorryforHashtaggingtoomuch,tech
+600 miles per hour?? no thank you.. ww,tech
+Sure drones can deliver packages...but can it deliver people?,tech
+how many KILOMETERS ARE 600 MILES AN HOUR!!!!?,tech
+is there frictoin in mars could we service and what kind of technology could make us breathe it's really confusing but the divolopment in our world is the best and i wish it could happen really soon,tech
+I’m sure whenever Elon Musk makes the brain chip we’ll be able to control the A.I with it. He’s not dumb enough to let robots take over.,tech
+Who said there will be a 2050?,tech
+So we wouldn’t need robots or AI’s to do things then.,tech
+Use AI to build the colony on mars,tech
+2020 coronavirus,tech
+AI will still be control by human,tech
+We would already be there if it wasn't for the fossil fuel industry,tech
+"I feel like Innovation has almost stopped, we are only upgrading and polishing, already existing technologies and Engineering to Sell more just to make money.....like same cars, with better wheels,better sounds.better driving..doing just the upgrades for same thing..",tech
+Who saw hitch water bottle ad,tech
+"This guy has obviously never heard of Neuralink\nNo need of wrist gauntlets, and you'll be able to download anything you want to your brain, and not have to even go to school",tech
+who else is watching this becvause of online school,tech
+bold of you to assume there will be a 2050,tech
+billy ray cyrus old town road,tech
+Who seen this video in lock down,tech
+Hyperloop probably won't replace trains. From what I understand to get rid of the drag they are using vacuum sealed chambers. To make a chamber that long will take trillions plus the largest chamber right now is in NASA which is only 100ft in diameter and 120 feet in height. So I doubt we will be able to make a vacuum chamber that will go across the United States and have it be cost efficient.,tech
+I wish I was born in 5050 not 2009,tech
+Drones could be the new world order.,tech
+The only valuable advance would be to get ride of all kind of letal weapons on Earth.,tech
+I can't wait 2050😍,tech
+"Yeah, what about the welfare of humanity, stopping all the wards & conflicts, eradicating famine & diseases,... Well now our biggest challenge of today is getting beyond this dammed epidemic.. Not even the politicians agree on a common course to fight it off..!!",tech
+In 2050 my age will be 46,tech
+"These kinds of videos give me dopamine, it will be interesting to see how we will transition",tech
+All these electric cars why no solar panel roof ? Wouldn’t it be beneficial ?,tech
+By then I would have gone with my lords Jesus,tech
+I’m never using a Uber,tech
+someone remove 2020,tech
+"Technology needs to focus on energy, besides fossil fuels and study element 115.",tech
+"In the future we'll just become consumers not workers anymore, technology will take over at everything",tech
+People think too much will happen in the future. People in the 80's though we would all be traveling with flying cars. Incorrect!,tech
+Only have to wait 30 years,tech
+Space exploration will be much more advanced in 2050,tech
+2050: New techniques to wash your hands.🤣🤣🤣,tech
+Whatever can change ! But India never..and I wish not to be like this..!,tech
+Cooool,tech
+"- What changes will have the future technology?\n\nIt will probably have an active participation of the AI’s and internet connection in every modern product, making it simpler to use, one example is the AI’s in the cameras of actual smartphones.",tech
+I-robot did warn us,tech
+"Technology will have many changes because it is positive because people specialized in robotics . They will build artificial hands and feet , for people who had accidents and lost some part of the body. For example in Colombia for the issue of mines. For example in china they created robots and they do the housework\n. I thing that in the year 2050, everything in the world will change, because robots will replace the work done by humans. For example operating charges will not be as necessary, Those works will be done by robots or machines. And people who don't like technology .",tech
+it depends if humans dont go extinct by 2050,tech
+"By 2050, our financial system will change.. Bitcoin by then could become the world standard.",tech
+"With the advancement of technology, technological encroachment in individual freedom is a big threat. This is a big issue. Future should be bright with technology. We work so hard to build technology only to bring forth dark ages is very foolish.",tech
+I want us to colonise Mars and the moon..and to have floating cities on the waters around the pacific oceans and or Atlantic seas..,tech
+Everyone cares about tech but no environment 😐,tech
+Surely u will implement artificial intelligence. That's 100 percent sure,tech
+Computer will be invincible\nIf the prerequisite conditions are guaranteed in the environment\nNo different from other scientific laws,tech
+Most of these are so frivolous. 😐,tech
+In 2050 all will die with carona,tech
+I'll be 55 at 2050,tech
+You forgot about neuralink...,tech
+Think about nature what happens if if it's the age of sci fi? it will drain every life on Earth,tech
+nah. itll be prettty similar to now,tech
+The robots will be the presidents.,tech
+Japan and china already in 2035 .,tech
+i wish i was born in 2040,tech
+2050??? \n\nmore like 20500,tech
+My man the narrator dude pleez note that the magnetic train u talk about is alredy invented and is called the maglev and about hyperloop it is being constructed by elon musk's company,tech
+Best sell watch on amazon: https://amzn.to/3dX3bTq,tech
+Best sell watch on amazon: https://amzn.to/3dX3bTq,tech
+Sure but i live in Bulgaria,tech
+The world in the future is easy with the technology evolution. We will have ease in transactions.,tech
+"querty keyboard on the underside of my forearn?? Not fond of that idea, a bit typo prone and probably a bit bruisey",tech
+Pip-boy 5000!!,tech
+2050 will be WWIII,tech
+This is URANUS baby,tech
+Robots will take over by 2025!,tech
+How about robot teacher.,tech
+Westworld**,tech
+U just mentioned the United States what about everywhere else in the world? It wont be fair if just US get them!,tech
+I will be 61 by 2050,tech
+"bet, so no flying cars then",tech
+We should start by repairing our environement and prevent if those could be a threat to environement AND humans.,tech
+If i have an ai bff i will name it holmes,tech
+the year 2050 flying trains,tech
+"Doubt it, humans only care about destruction and power. Goodluck",tech
+Isn’t the world already dead by then,tech
+I BE 45 IN RHE YEAR 2050 😭😭😭😭,tech
+"What are you talking about? Looking at 2020 so far, we will probably be extinct by 2050",tech
+"Machine will replace manpower, what will happen to people",tech
+"Yeah so basically , all the unwanted of society and prisoners will definetly be sent to mars. Kinda like how America was colonized.",tech
+Pointvextor must be zero gravity,tech
+Cars look like mouses for computers in 2050 huh?,tech
+Well we are going to Mars in 2024 according to SpaceX so all of this is obsolete now.,tech
+I mean... you never know,tech
+"In case you have not noticed, advances in technology seems to be inversely proportional to the level of humanity and morality.\n\nWhy can't both advance in the same direction?",tech
+nice,tech
+nice,tech
+Additionally ... inequality makes all this BS. Hunger Games Society Only.,tech
+"uhh, ahh, future trchnology, 5G, fly to the mars(or snickers),,,,,,,and I still don't have fuc... stupid 4G in my garden😢",tech
+"What about state of this planet, from light blue to brownish black? It’s high time we realise technological benefits come at an irreparable cost.",tech
+"2050: Earth, Venus, Mars, Mercury, Guilds, Outsiders, Bio-Tech, Space Parks, Strato-station, UBI, Bio-modification, Bio-Computers, DNA sticks, Glass Computers, Glass sticks, Eternal Zoom, Blockchain, Quantum-Tech, Crypto. Enjoy the future. Thats all I'm gonna say.",tech
+"Am I the only one that things we are very behind in technology? Look at transportation tech we have. Look at cars we been using wheels since the beginning of time, there isn’t really nothing better? Look at aircraft, at the shapes of aircraft, basically a cylinder with wings there isn’t nothing really better? The propulsion systems of space aircraft we are still using combustion engines. I think technology progress kind of got stuck in some areas between 1980-2020 in some areas",tech
+I'll be 45 in 2050,tech
+Want to make the biggest technology movement??? Pay reperations and stimulus and start massively advertising tech... This will help the advancement of tech and also give mass profits in the upgrades!!!!,tech
+I'm only 10 so I'm scared,tech
+Theroretically simce AI wouldnt need oxeygn would they be able to fly to mars (with a spaceship obviously),tech
+"People in 80s ; We will have flying cars by 2020 ..... 😇\nElon Musk : (Hold my beer), Floats his fucking car in Space 😎😒",tech
+hi im from 2050😀and this will not\nsee more...,tech
+"People in 2050: ""Earth is flat"".",tech
+2050 my age is 58 years old,tech
+IM 53 years old in 2050,tech
+"Ya, and we will be out of oil and cars will fly lmfao",tech
+This has already been nullified by COVID. None of it will happen.,tech
+This will not happen WW3 is comming,tech
+I don’t think we make 2050,tech
+Real life RoboCop what,tech
+You know.,tech
+It's the future not now,tech
+"Mad max, more probable",tech
+"The female fertile south africa semiannually judge because authority conversly post across a wholesale loss. outgoing, tender tense name",tech
+Talk bout vr in 2050,tech
+This is the future: https://www.youtube.com/watch?v=A-RuhUsOX6g,tech
+"This guy: Instead of typing the number, you could say ""call mum""\nSiri: Am I not good enough for you",tech
+NaN,tech
+"Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser.\n\nLearn all about Node.js in the full course for beginners.\n\n🔗Install Node.js:",tech
+I Would just like to thank FreeCodeCamp for giving me the honor of having my video on here. \nIf you guys have any questions what so ever feel free to ask me on my youtube channel.\nhttps://www.youtube.com/noobcoder\nOr post your questions here. I'll come here every so often to try to answer as many questions as possible.,tech
+It's given me a great start in node.js. Great stuff!!,tech
+"Thank you very much for this tutorial, helped me a lot to get started, didn't stop for anything, very well explained!",tech
+"Thanks so much for the tutorial, loved how you gave motivation behind everything you thought.\n\nWould be great if the source code could be made available for those who are coding along, since you don't show some of your html files.",tech
+(1:07:37) The path for the file to be piped with the readable stream must be relative... Else it won't work (tested with Node.js 15),tech
+Thanks a ton for this! Just what I needed! I was literally speaking to friend yesterday that I am planning to learn Node.js. Looking forward! :),tech
+I will feel guilty if I don't press a like for this video after watching for 2 hours...,tech
+"Great video to watch at 1.5x speed, the talking pace was a bit slow. Good content though.",tech
+"I wish you'd somehow reduce the text size and closed the terminal if not being used. It was hard keeping track when you only see 5-6 lines of code in preview. Nonetheless, it was pretty great and pretty clear.",tech
+Thank you! Great lesson! \nsorry buy it's hard to follow you with this type of screen(only couple line of code on whole screen...),tech
+1:10:26 classic winrar,tech
+I totally recommend this video!!! Thank you for teaching Vanilla node.js !!,tech
+38:53 its actually hexadecimals,tech
+"People who wants to learn node, I recommend ""Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh"". This particular tutorial is not for beginners ( author didn't bother to explain many fundamental concepts ) also I personally didn't like teaching style; felt super sleepy many a times",tech
+"My God, Its 2020, you are still saving lives... God Bless you brother...",tech
+Thank you for this wonderful tutorial!!!,tech
+"Finally, I could wrap my head around NodeJS! Thank you very much...",tech
+Thank you! Great lesson!,tech
+I love the voice!,tech
+Best nodejs tutorial ever!,tech
+Thank you for the great video!,tech
+"Great tutorial, thanks much :)",tech
+Thank you so much for this tutorial :),tech
+Love the video. Keep it going.,tech
+1:15:10 Google says Happy Teachers Day while Pedro is teaching us. :),tech
+"Hello, Thank you for sharing video. Could you please share the code on Github so we can download it.",tech
+"It seems the Joi.validate(request ...) method is deprecated since v16, now it's more like schema.validate(request)",tech
+Great course! well explained,tech
+this video is really lit1 thanks alot!,tech
+Great tutorial video Pedro. Learned a lot.,tech
+Lovely tutorial! Thanks a lot!,tech
+So thankfull if this free :'),tech
+Brilliant! Expands on what really happens under the hood when you use your favourite libraries.,tech
+thanks for uploading node.js,tech
+thank you (:,tech
+curry shtring :D,tech
+謝謝你的分享 讓我學到很多 Thank you for sharing. This is big help for me to learn!!,tech
+Literally one of th ebest node tutorial...Thanks dude....YOu're great..!!,tech
+Getting error 1:53:45\nrefused to apply style from because it's MIME type,tech
+"Thank you for the brilliant tutorial! I just wanted to clarify, that when serving static files with express and using the alias of '/public' in this case, that I need to specify the href as 'public/styles/style.css' in the html file, right? So the href references a path that is virtually created? Despite the actual file path being 'static/styles/style.css'.",tech
+Thank you this was very useful,tech
+Thank you.,tech
+thanks for this,tech
+"Thank You, Bnana",tech
+Your tutorial is awesome. Thank you NoodCoder,tech
+Thank you sir. This course is so helpful.,tech
+Great video! Very useful! Thank you :),tech
+"Pheww, it hAS EXPRESS JS ALSO",tech
+Really Helpful video on Nodejs. Watched without any break and didn't feel bore. learned a lot. thanks alot sir. appreciated,tech
+"Thanks Sir, this was really helpful",tech
+Set speed: 1.25,tech
+"perfect Tutorial , thanks too much",tech
+"Awesome course, In case you are having the error of ""Error: Cannot find module 'ejs' "" when you run node app from 2:25:24 run ""npm install ejs"" to fix this error",tech
+I would like to thank you for your awesome tutorial.\nYou make it really easy to understand and not boring at all.\nPlease keep going you're doing great !!!,tech
+"Very usefull video. It covers most importants arguments, great!! Thanks! (why he's making a video course at 4.10 AM(?!)) funny...",tech
+it would have been relly helpful if the codes were given,tech
+very nice video it helped me to shift from python backend development to nodejs backend,tech
+"""Banana is important""",tech
+"Complete, very well structured and explained ! Thank you, Pedro, for this amazing free tutorial !",tech
+You're doing God's work,tech
+"In less than 5 minutes your lower 3rd graphic popped up 4 times. That is way too much man, you need to space those out to like every 5 minutes, not 1 per minute",tech
+"I love bananas, too, brother",tech
+"Just 14 mins into this video, I completely feel this is the best video for beginners out there who wish to learn node.js without much coding experience. Not all the highly viewed videos or highly liked videos are so understandable as this one.",tech
+0.182638889,tech
+I thought it was videogamedunkey at first,tech
+"Your tutorial is awesome, not only nodejs, we can learn alot more. Thanks million!",tech
+"Hey !! It's an amazing tutorial , u example very good , amazing",tech
+shtream :D,tech
+"Phenomenal tutorial, Noobcoder! You make learning Node.js so simple and elegant!\nI've taken notes from this tutorial to the best of my abilities, and I can share it with the community! Drop your email ids here and I'll send them in batches of 5.\nAgain, thanks for such a special video!",tech
+Seems like you gotta know JavaScript before following this. cries,tech
+Amazing.. thank you..,tech
+thanks a lot!,tech
+Awesome video. Thank you so much for this video. I would love to see more videos on this topic from you.,tech
+thanks Sir for sharing your precious knowldge,tech
+thank you so much....please keep uploading such tutorials,tech
+Truly great course,tech
+"Love it, super clear and easy to understand what u say, but pls pls reduce the text size, that makes super nervous",tech
+"Would cool if had all it on github, anyone put it there?",tech
+"Everyone, for when doing ejs you have to do npm install ejs in order for it to work properly.",tech
+code ninja's video or this one? Which one is better? Do suggest.,tech
+"Thank you! I will definitely watch entire video. Please, can someone tell me how would look like the loop from 21:16 ? sorry for dumb question, I just started to learn OOP...",tech
+Thank you,tech
+Thanks lots,tech
+Thanks a ton!,tech
+how to allow the module version update for major version in package.json?,tech
+"hello, guys, I am new to node js is this tutorial sufficient or I should try something else?\n\nthanks in advance.",tech
+fantastic tutorial..!!,tech
+Bro went from basic to classes faster than I can follow.,tech
+Very nice and beginner friendly tutorial ... thanks a lot !,tech
+Best tutorial that what do i say............,tech
+great video! Are there any other server side validation packages as joi is deprecated?,tech
+Yang milih allah like 40000 ya.,tech
+I have windows 10 pro and I want to find the directory through documents but the layout is different because I recently had a computer upgrade so my documents don't look like this. So I can't find the URL to the directory on the top like how you did where can i find it?,tech
+"one of the best tutorials I've seen for any language... very level appropriate for those coming from other languages. I have experience in BASIC, perl, python, C, C#, and some C++ and this clearly delineates the structure, typing, and syntax of the language fairly quickly (at least if you watch it at 2x like I did?)",tech
+"console.log(""Freecodecamp is awesome."")",tech
+0.611111111,tech
+Great content...highly appreciated.,tech
+I think this tutorial is not for beginners :)),tech
+For anyone who might not be able to run it after installing. Make sure to set your variable path. Probably the most important part,tech
+thanks for publishing this @noobcoder,tech
+Nice explanation of every concept. Thanks,tech
+this is very inforamtive and very clear. Thank alot.,tech
+This had alot of fucking memory holes in it,tech
+Yang pilih allah like.,tech
+1+1 WORK HIRE ME GOOGLE,tech
+Amazing. Thank you guys!!!,tech
+just say Wow,tech
+Will I be able to make a backend server after watching this tutorial?,tech
+what extensions do you use for auto-completion and suggestions?,tech
+Great explanation,tech
+Am i first person who viewed this?,tech
+"i really think its a very good tutorial but you didn't talk about writefilesync or any sync functions, for beginners its hard to follow callback functions, and called by arrow, so its like an advanced tutorial without talking about advanced things...",tech
+There is a misspelling at 1:27:18,tech
+"Best node.js tutorial ever! Until I found this, everything looked like very complicated about node.js. But this is very simple and clean. Thank you so much Pedro",tech
+I want to be a node js expert. Can anyone please help me out on how and what pathway to follow. Thank you.,tech
+Continue watching at 2:22:34 - Getting Started With EJS Templates With Express,tech
+Could you please share the 34 line HTML code used in the body parser modules? I mean the HTML code that asks for the email id and the password.,tech
+We just need more people like you.,tech
+It's videogames dunkey xD,tech
+"concise, neat, all in one to jumpstart using Node! I reeeeeeeeealllllllllllllllly love it! :O",tech
+02:13:52 When I press the button nothing happens :/,tech
+Non ad video i love that,tech
+That's one annoying voice :/,tech
+"best node tutorial I've seen. BTW I just concern that if we use stream to read/write file by chunks, how can we ensure that the chunks are in right order?",tech
+Node JS is awesome!,tech
+Hello sir ..... great tutorial for the beginners...thank you so much sir\n Sir i am using node.js command promt and typed npm init command but after the version number none of the keys will work please help\nThanks you much for uploading great tutorial series,tech
+Are you sleeping?,tech
+Why AJAX I got lost there becuz I use Fetch,tech
+1:12:30 time stamp for later,tech
+"well, it is good that the code is readable.We can see every thing;",tech
+Am I the only one having trouble understanding the constructors that is being used in the starting classes?,tech
+It would help a lot if there was a link to all these exercises on GitHub.,tech
+Hello...I'm stuck at 2:11:30. which is User Input Validation with Express and JOI. The error I receive is that Joi.validate is not a function. I checked and it's been deprecated. Can you please share how to fix this issue?,tech
+Very useful for beginners. Thanks.,tech
+Is javascript a prerequisite?,tech
+Thanks for creating Grate content. But why too much zoom that it could not see the full code block when you writing something. All the time you scrolling and it is very difficult to focus on a full block of code!,tech
+dosn;;t work,tech
+"@2:39 Actually, ctrl+` (the button above the 'tab' key) will also bring up the terminal.",tech
+"For the ""Pipes and pipechain"" module, anyone get 'events.js: 160 throw er; // Unhandled 'error' event Error: unexpected end of file at Zlib._handle.onerror (zlib.js:370:17) ' when trying 'readStream.pipe(gunzip).pipe(writeStream);'? Not find a good solution online. Got the same error when trying local compiler as well as online compiler.",tech
+All that to print Pedro....\nThanks for the knowledge I will be learning more about this in time.,tech
+"Hey! I pretty much followed the tutorial and I want to really thank you! You made this in such a manner I can actually understand what we are doing, which is very important.\n\nOne thing though, my succes: ajax function never gets called, neither does fail, attaching .done gives the correct output though :(",tech
+I try to install nodemon but i get some errors,tech
+"Hy, i just wanted to know that how the line event code is executing automatically without emitting the line event. (Duration 32:04)",tech
+0.079594907,tech
+"If anyone is struggling to understand some of this, just have the documentation open alongside and read up on some of the function calls. There's a ton of stuff to learn and only so much that can be fit into each video!",tech
+Your are the best 👍💯 bro,tech
+3q,tech
+Awsome work,tech
+1:17:54 <--------,tech
+Awesome.,tech
+"So 2:00:17 - what is the benefit of preventing sending data via default submit post method, and rewriting it into ajax request?",tech
+To save the time of node app CTRL+C and restart install `npm install nodemon` https://www.npmjs.com/package/nodemon,tech
+All this pipe and readstream- is this from a new Node version??,tech
+“Shtring” !== “String”,tech
+perfectoOoooOOoo!!!!,tech
+"in 18:21 it will return NaN , so just give the prenthes to numbers ==> eventEmitter.emit('tutorial',(1,2));",tech
+"i am good knowledge in html , css it is possible to study node.js?",tech
+timestamp: 17:37,tech
+I'd never recommend this tutorial. Disliked,tech
+Hi please create a course on ext.js,tech
+Do I need to know a lot of Java Script to understand? (I know only the basics of JS),tech
+A much needed course for every node.js beginner,tech
+"Excellent beginner tutorial. I was just a bit bothered by the lack of spaces after a comma, parenthesis, and arrows, but that were good and simple introduction examples :)",tech
+What is a real world use case for the EventEmitter class?,tech
+You can test your Node.js skills by taking this Quiz: https://ew3.site/youtest/NodeJS-Quiz-1001?2,tech
+"Hello Sir, I have a small doubt or issue, when I type 'node app.js' it showed me the following:-\n'node' is not recognized as an internal or external command,\n\noperable program or batch file.",tech
+2:00:00 got an empty string from the ajax request when using contentType on line 40 instead use ContentType,tech
+"1:38:30 ""npm install express --save' instead of 'npm install express' works for me",tech
+"Good tutorial, but I wish that you zoomed out a bit on the code. It makes it hard to follow along if you make a typo, requiring you to go back to a previous section, which is really annoying.",tech
+It's nice when someone takes a step back now and then to explain WHY we are doing something. You do that very well.,tech
+"Many thanks for the long tutorial. It was perfect, except you could have not zoomed it so much as a much smaller font would have be easily readable and we could have benefited by seeing the whole page rather that scrolling up and down. Also it would have been better if the Dev Toll panel was on the right rather than the bottom.",tech
+Mike Dane is the best!,tech
+"@4:35 you copy the folder path to use in your cd. One trick I love is in explorer window file path you can type ""cmd"" and press enter and a new terminal opens at that file path",tech
+Isn't the req.body already in json?,tech
+outlaw,tech
+"Hey, nice video about the readline module. If you enter Ctrl + C in the command line it triggers the rl.on(""close"") event, and then go on saying you are correct. I think you can correct this by creating a child class and editing the close event call back and you can pass a parameter to know where it was fired from. Get it??",tech
+02:28:52 This guy doesn't know the word wrap option? Lol,tech
+"Hey guys when you get to this part `what is 𝑛𝑢𝑚1+num1+{ num2 }? \n`, don't use the regular apostrophe. if you wan to include a variable in your string use the key to the left of number one. i missed when he said that. I will be leaving solutions to problems i find in comment replys to this one. please check them out.",tech
+Are you really noob??,tech
+"Man are you bored? Voice is so slow and sleepy, it is hard to stay cool for 3 hours.",tech
+"amazing tutorials, thankyou!",tech
+‍,tech
+every ti use joi .validate is saying no such function,tech
+"not getting output in console.log(""hello world"") do I need a localhost server",tech
+"when i delete all files in a folder with fs.unlink and start a new function on the next line with fs.rmdir to remove the folder , it only removes the files and not the folder. For some reason, I have to run the code twice before I can get the folder to be deleted , can I ask what I am doing wrong?",tech
+what to do when i have not visual studio?,tech
+"after installing node and starting visual studio code I did as you did up untill 7:00, but then I typed 'node app.js' and nothing happened!",tech
+4:23 or type cmd and press enter,tech
+your code is way too zoomed in. you need to zoom out more so that the code is never cut off on the sides of the screen,tech
+da baby,tech
+"4:29 another trick to do this is going to your requested path, and type cmd where the file location is and hit enter :) this opens a cmd in the current directory ur in.",tech
+http://localhost/Master/Product/ Static file load perfectly. but http://localhost/Master/Product/Product Or http://localhost/Master/Product/Edit Static file not loading perfectly. how to solve this problem in hbs template engine,tech
+Hi,tech
+imjaystation,tech
+It would be nice if we can see more than just three lines of your editor,tech
+Awesome video,tech
+"Great tutorial. But I'm getting this error at 2:14:00\n\n\nError [ValidationError]: ""value"" must be an object",tech
+"Why because my system is old ,and now In my system runs windows 7 32bit",tech
+He sounds like Shawn Mendes teaching NodeJS,tech
+It says tutorial is not a function,tech
+How did he get JSON data from the html form when validating using JOI? All I can get is an array of objects. Tried leaving out body parser and setting the url encoded value to true for the additional data types but nothing works. Is it somthing that is done from the post ajax in the HTML?,tech
+What are some example projects using Node.js?,tech
+Okay I got lost at the event thing lol,tech
+"At minute 28, why is ""rl"" an instance of the ""EventEmitter"" class? And why we didn't emit the close event? Do we only emit events whose names are not built in functions?",tech
+not working. print tutorials returns {} empty brackets,tech
+Hi NoobCoder (Pedro)\nTHANKS a lot for this tutorial. Evrt super clear and very well explained.\nGreat examples as well.\nI learned a LOT.,tech
+Yoooooooo,tech
+"i saw this vid on 1.5 speed until i got to the last 3 min, i got so used to u on speed that u sounded drunk on normal speed lol.\nanyway great job on this tut really like that u dived more then the other usual express/node tut here in youtube.",tech
+Bro,tech
+Is the source code available ?,tech
+good job,tech
+Finally foreigner using windows,tech
+"Awesome tutorial.\nI had an issue while trying to make use of the ""path"" module. Non of my external files was served, just the index.html files. how do i debug this issue please...",tech
+football,tech
+Me: downloads node and puts (‘okay’).length\n\nI am a coder,tech
+"2:13:37 \nvalidate isn't a function since version 16 of joi\nthe working function is:\nconst schema = Joi.object({ name: Joi.string() .min(6) .required(),",tech
+if ' What is 𝑛𝑢𝑚1+num1+{num2}?' prints out the string without the variables its because you need to wrap the string with ``(usually in the ~ button) and not ' the regular single qoutation mark ' '\njust thought it might shorten someone time...,tech
+I'm Getting Empty Object in Console(req.body); time 2.00 .... Any Solution ????,tech
+Life would have been much easier if the instructor told at first why the nodejs code which is written is need to be written at first place.,tech
+Windows??? Really,tech
+I love u girl,tech
+"Hi sir,\nI am facing problems using validation with joi, I have followed all the steps as you have demonstrated but upon submitting the form i am getting validation error stating ""the value need to be an object"", I think that in my case the body parser is not able to convert the array of objects to objects and thus i am getting such error but i cannot understand why??",tech
+"When I use node app.js, the terminal is showing me a message that says 'node' is not recognized as an internal or external command. Can anyone please help me find a solution??",tech
+So... it’s not necessary to install node.js?,tech
+"So I want to ask, most tutorials teach only a handful of the core Node Modules. The tutor was very thorough with his explanations. Can you point us to resources where we get in depth knowledge of the other countless core node modules. I see some nodejs tutorials and I immediately go blank. I wanna develop same confidence I have with front-end javascript with nodejs. How can I get such in depth resource...not the nodejs official documentation please.",tech
+how to pass json object values into jrxml file convert into pdf using nodejs.help me.,tech
+events.js:183\n throw er; // Unhandled 'error' event\n ^,tech
+anyone have any issues when trying to run on localhost:3000 on the second piece of code he does with the '/' being introduced? My pc spends ages loading just to show a blank screen,tech
+"Hi I am now at User Input Validation with Express and JOI (time from 2:07:40). I am facing error ""ValidationError: child ""password"" fails because [""password"" is required].",tech
+Hello sir ..... great tutorial for the beginners...thank you so much sir\n Sir i am using node.js command promt and typed npm init command but after the version number none of the keys will work please help\nThanks you much for uploading great tutorial series,tech
+Hello sir ..... great tutorial for the beginners...thank you so much sir\n Sir i am using node.js command promt and typed npm init command but after the version number none of the keys will work please help\nThanks you much for uploading great tutorial series,tech
+"'what is the point of extending an event emitter? a Person class can simply has a name method that consoles it out. the event emitter class simply functions as a method definer/caller, but methods are already a base feature in JS. why not simply use object's methods instead?",tech
+Bucky? Is that you?,tech
+"video was good till 2:01:00 when you started using jquery because idk it and kinda dont want to learn it in 2020, so now I'm just totally lost as to what you're doing, so I'm gonna just find another tutorial",tech
+Alt/Option+Shift+Down is copy current line down in VSCode,tech
+"If someone struggles with error ""ValidationError: child ""email"" fails because [""email"" is required]"" at around 2:14:00, this code will help:\n let object = {};\n\n req.body.forEach(element => {",tech
+"I've been using node for quite a while, but this is a very helpful refresher. Thank you!",tech
+"""I'm using Visual Studio Code because it has an integrated Command Prompt.""\n\n.............It does? I've been using it for Python and wish I'd known this earlier.",tech
+Below code is not working on localhost:3000 its keep on loading\nnode js version : v10.14.2\n\nconst http = require ('http');,tech
+Could you tell me the significance of app.use statement i.e. line 4.We specify till static folder in statement 4 and then specify the exact file name by appending the .html file by using pathname again for the code that we wrote for rendering static file. Also I encountered the below error:,tech
+Why would anybody give this a thumbs down? Four trolls a-trolling. Fa-la-la-la la...,tech
+"You know what is the major problem with programming tutorials? The fact that the tutor doesn't know what's your purpose of watching his video. Don't get me wrong NoobCoder and freeCodeCamp.org, your videos are really helpful but they're more enjoyable to new programmers, not someone like me who has three years of experience and searching for help to build a chat section for his project.",tech
+"Hi pedro, i'm sorry before for ask this question. When i'm hit ctrl B in minutes 58:28, nothing happened, no file example.txt created, what happened? Thank you for your answer.",tech
+"Terrible environment, terrible and difficult understandable language. I would like to ask the Node JS developers: do you know anything about the existence of the Windows operating system and Visual Studio may be ?",tech
+"Hey Pedro, I have a question: when rendering static file did you try to put some link(CSS, JS scripts) in your file(HTML file for example) ? Cause I tried to print a html file via the static server but all the links don't work and if I print the file out of the server the links work(my HTML page is styled and my script work). Thanks again for the wonderful tutorial.",tech
+banana,tech
+"This course is very good. However not everything is explained. So, I suggest you to go over the node tutotials on w3schools and then watch this. Your concept will 200% clear and you might start calling yourself a node.js dev. Good luck mates!",tech
+"Enjoying the tutorial and will keep watching others!! By the way, I am no expert, but you should use nodemon to reload your server when saving. Also, you should use prettier, so you don't have to organize your code manually!",tech
+Node js software is not instal,tech
+Joi.validate is not working,tech
+"Joi.validate is depricated from Joi V16\nUse: \n\nconst schema = Joi.object({ name: Joi.string() .min(6) .required(),",tech
+I install Node.js from Ubuntu..... :),tech
+"with Adonis.js it is easier :), but great tutorial.",tech
+"great tutorial but the font is annoyingly big, it would be nice to see more than 3,4 lines of code on the screen",tech
+=>() might not be something a beginner would know and this is not a video an experienced user will watch. I stopped watching it 23:58.,tech
+"your code style is AWFUL. use proper spacing and formatting, please. follow AirBnB style guide or something else",tech
+"re: ""rl.question(`What is 𝑛𝑢𝑚1+num1+{num2}? `,"" (line number 8)\n\nIt took me 3 hours to figure out why it is printing ""What is 𝑛𝑢𝑚1+num1+{num2}?"" instead of ""What is 4 + 11?"" (whatever the random numbers). Then I put my eyes closer to the monitor of my laptop and noticed that I should use (`) instead of ('), the former is on the leftmost of the keyboard, while the latter is below the double-quotes. What makes the difference? I almost gave up.",tech
+"Finally, a nodejs tutorial that starts from the very basics. Most other tutorials on nodejs would jump into http server or some other complicated use of nodejs. In fact, this tutorial helped me understand callback functions, even though the tutor used anonymous version ( ) => of callbacks. Kudos and keep it up Mr Pedro. Will find your channel and subscribe. You are a very good teacher",tech
+Ello\n\nThank you.,tech
+he likes banana,tech
+👍if you love coding😍😍😘,tech
+"Hey guys, I didn't watched this video yet, this is a question to everyone who really watched this completely: So If a person who has knowledge of HTML, JS, CSS, and jQuery can make a website after watching this with complete backend?",tech
+const sum is a function? I am lost right there and also not interested in learning windows shortcuts.,tech
+So i needed to watch this video but had to check the comments first. Turns out i will check it + plus i just started working with NodeJS and Postman. Guess i wont regret watching it.,tech
+this worst there is no explanation for newbiiees,tech
+you are just coding but you are not giving knowledge very bad video,tech
+NaN,tech
+NaN,tech
