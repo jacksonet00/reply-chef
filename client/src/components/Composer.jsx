@@ -26,11 +26,13 @@ const useStyles = makeStyles({
      width: '90%',
      marginLeft: '5%'
   },
-  sendButton: {
-     position: 'absolute',
-     bottom: '0',
-     right: '0',
-  }
+  replybtn: {
+   position: 'absolute',
+   right: '0',
+   bottom: '0',
+   marginRight: '5px',
+   marginBottom: '5px',
+}
 });
 
 const Composer = () => {
@@ -64,7 +66,7 @@ const Composer = () => {
             variant="filled"
             InputProps={{className: classes.inputText}}
          />
-         <ReplyButton className={classes.sendButton}/>
+         <ReplyButton InnerProps={{ className: classes.replybtn }}/>
         </form>
       </div>
    );

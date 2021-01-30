@@ -3,11 +3,13 @@ import CommentView from './ComposerView';
 import ComposerView from './CommentView';
 import MenuBar from './MenuBar';
 import { makeStyles } from '@material-ui/core/styles'
+import Footer from './Footer';
 
 const useStyles = makeStyles({
   background: {
      backgroundColor: '#2D2D2D',
-     height: '100vh'
+     height: '100vh',
+     overflow: 'hidden'
   },
   grid: {
      display: 'grid',
@@ -28,6 +30,7 @@ const Dashboard = () => {
             <ComposerView />
             <CommentView />
          </div>
+         <Footer />
       </div>
    );
 }

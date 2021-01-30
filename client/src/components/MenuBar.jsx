@@ -10,7 +10,7 @@ const useStyles = makeStyles({
      flexDirection: 'row',
      justifyContent: 'left',
      alignItems: 'center',
-     paddingLeft: '10px',
+     paddingLeft: '5vw',
   }
 });
 

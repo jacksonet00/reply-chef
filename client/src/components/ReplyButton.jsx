@@ -12,12 +12,12 @@ const useStyles = makeStyles({
    }
 });
 
-const ReplyButton = (props) => {
+const ReplyButton = ({ InnerProps }) => {
    const classes = useStyles();
 
    return (
-      <div className={classes.btnContainer} >
-         <Button variant="contained" color="primary" type="submit" style={{ fontFamily: 'Poppins' }} >Reply</Button>
+      <div >
+         <Button {...InnerProps} variant="contained" color="primary" type="submit" style={{ fontFamily: 'Poppins' }} >Reply</Button>
       </div>
    );
 }
