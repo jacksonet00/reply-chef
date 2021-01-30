@@ -20,7 +20,6 @@ const categories = ['Beauty', 'Technology', 'News', 'Finance'];
 const Dashboard = () => {
    const classes = useStyles();
    const [category, setCategory] = useState('Beauty')
-   const [questionsFilter, setQuestionsFilter] = useState(false)
 
    return (
       <div className={classes.background}>
