@@ -54,7 +54,7 @@ const comments = [
    }
 ]
 
-const CommentView = () => {
+const CommentView = (props) => {
    const classes = useStyles();
    const [question, setQuestion] = useState('comment');
 
@@ -69,7 +69,7 @@ const CommentView = () => {
             </FormControl>
             <GridList className={classes.comments}>
                {comments.map((com, i) => {
-                  return <div><Comment comment={com} /></div>
+                  return <div><Comment comment={com} onReply={props.onReply} /></div>
                })}
             </GridList>
          </div>

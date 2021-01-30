@@ -12,12 +12,13 @@ const useStyles = makeStyles({
    }
 });
 
-const ReplyButton = ({ InnerProps }) => {
+const ReplyButton = (props) => {
    const classes = useStyles();
+   const { InnerProps } = props;
 
    return (
       <div >
-         <Button {...InnerProps} variant="contained" color="primary" type="submit" style={{ fontFamily: 'Poppins' }} >Reply</Button>
+         <Button {...InnerProps} variant="contained" color="primary" type="submit" style={{ fontFamily: 'Poppins' }} onClick={props.onClick} >Reply</Button>
       </div>
    );
 }

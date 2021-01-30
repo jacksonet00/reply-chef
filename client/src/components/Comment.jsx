@@ -5,7 +5,7 @@ import ReplyButton from './ReplyButton';
 const useStyles = makeStyles({
    background: {
       position: 'relative',
-      backgroundColor: 'white',
+      backgroundColor: '#C4C4C4',
       borderRadius: '5px',
       width: '85%',
       padding: '5px',
@@ -36,7 +36,7 @@ const Comment = (props) => {
       <div className={classes.background}>
          <div className={classes.username}>{commenterName}</div>
          <div className={classes.comment}>{commentText}</div>
-         <ReplyButton InnerProps={{className: classes.replybtn}} onClick={() => console.log(commentId)} />
+         <ReplyButton InnerProps={{className: classes.replybtn}} onClick={props.onReply} />
       </div>
    );
 }
