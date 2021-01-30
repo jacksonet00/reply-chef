@@ -25,7 +25,7 @@ const useStyles = makeStyles({
   },
   radio: {
       '&$checked': {
-      color: 'white'
+      color: '#4F87F3'
       }
    },
    checked: {
