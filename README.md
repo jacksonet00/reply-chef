@@ -1,7 +1,6 @@
-![image](images/reply_chef_icon.png) 
-# ReplyChef
-
 ![image](images/banner.png)
+
+# <img src="/images/reply_chef_icon.png" width="50"> ReplyChef
 
 ## Meet the Team
 
