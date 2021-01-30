@@ -1,6 +1,6 @@
 # ReplyChef
 
-![image](images/banner.gif)
+![image](images/banner.png)
 
 ## Meet the Team
 
