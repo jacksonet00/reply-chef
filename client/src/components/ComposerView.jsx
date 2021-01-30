@@ -4,7 +4,6 @@ import Composer from './Composer';
 
 const useStyles = makeStyles({
   background: {
-     backgroundColor: 'green',
      height: '100vh'
   }
 });
