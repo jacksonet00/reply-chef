@@ -3,6 +3,8 @@
 # <img src="/images/reply_chef_icon.png" width="60"> ReplyChef
 
 [Try it out!](https://replychef.tech)
+<br>
+[Watch the demo](https://youtu.be/A4xAyQkeIHU)
 
 ## Meet the Team
 
