@@ -15,10 +15,9 @@ As we move further into a digital age interacting with your audience is incerasi
 ## How we built it
 
 ## Technologies Used
-- Python 3,
-- Javascript, HTML, CSS
-- Numpy, Pandas, Google Cloud, Google NPL
-- React, Material UI
+- Python 3, NumPy, Pandas
+- Google Cloud Platform, Google NPL API, Firebase
+- React, Javascript
 
 ## Challenges faced
 - Google Cloud's NLP API only classifies strings with less than 20 words. We solved this challenge by devloping our own classification model using NLTK in order to classify the non-compliant data.
