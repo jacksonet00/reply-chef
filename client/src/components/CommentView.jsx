@@ -1,28 +1,18 @@
-import React, { useState } from 'react';
-import Radio from '@material-ui/core/Radio';
-import RadioGroup from '@material-ui/core/RadioGroup';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
-import FormControl from '@material-ui/core/FormControl';
+import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Comment from './Comment';
-import GridList from '@material-ui/core/GridList';
+import List from '@material-ui/core/List';
 import '../styles/Font.css'
 
 const useStyles = makeStyles({
    background: {
       position: 'relative',
       height: '55vh',
-      marginTop: '12vh',
+      marginTop: '9vh',
       marginLeft: '5vw',
       marginRight: '5vw',
       borderRadius: '8px',
-      marginBottom: '5vh',
    },
-  label: {
-     fontFamily: 'Poppins',
-     fontSize: '24px',
-     color: 'white'
-  },
   radio: {
       '&$checked': {
       color: '#4F87F3'
@@ -31,47 +21,33 @@ const useStyles = makeStyles({
    checked: {
    },
    comments: {
-      paddingTop: '5vh',
-      height: '60vh'
+      paddingTop: '15px',
+      height: '600px',
+      overflowY: 'scroll',
+      width: 'fit-content'
+   },
+   title: {
+      color: 'white'
    }
 });
 
-const comments = [
-   {
-      commentId: 123,
-      commentText: 'I love your video :)',
-      commenterName: 'donkeykong42069'
-   },
-   {
-      commentId: 456,
-      commentText: 'What is your address???',
-      commenterName: 'basketballrangeroverkid'
-   },
-   {
-      commentId: 789,
-      commentText: 'Why tf my pp hard??',
-      commenterName: 'littlekidlover'
-   }
-]
-
 const CommentView = (props) => {
    const classes = useStyles();
-   const [question, setQuestion] = useState('comment');
+   const { comments, category } = props;
 
    return (
       <div className={classes.background}>
          <div className={classes.content}>
-            <FormControl className={classes.radio} component="fieldset">
-               <RadioGroup aria-label="questions-comments" name="gender1" value={question} onChange={(e) => setQuestion(e.target.value)}>
-                  <FormControlLabel className={classes.radio} value="question" control={<Radio classes={{ root: classes.radio, checked: classes.checked }} />} label={<h1 className={classes.label}>{'Questions'}</h1>} />
-                  <FormControlLabel className={classes.radio} value="comment" control={<Radio classes={{ root: classes.radio, checked: classes.checked }} />} label={<h1 className={classes.label}>{'Comments'}</h1>} />
-               </RadioGroup>
-            </FormControl>
-            <GridList className={classes.comments}>
-               {comments.map((com, i) => {
-                  return <div><Comment comment={com} onReply={props.onReply} /></div>
+            <h1 className={classes.title}>Comments</h1>
+            <List className={classes.comments}>
+               {comments.filter((com) => com.label === category).map((com, i) => {
+                  return (
+                     <div key={i} style={{paddingBottom: '15px'}}>
+                        <Comment comment={com} onReply={(e) => props.onReply(e)} />
+                     </div>
+                  )
                })}
-            </GridList>
+            </List>
          </div>
       </div>
    );

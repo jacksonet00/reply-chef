@@ -7,7 +7,7 @@ const useStyles = makeStyles({
       position: 'relative',
       backgroundColor: '#C4C4C4',
       borderRadius: '5px',
-      width: '85%',
+      width: '600px',
       padding: '5px',
       paddingBottom: '5vh',
    },
@@ -29,14 +29,13 @@ const useStyles = makeStyles({
 })
 
 const Comment = (props) => {
-   const { commentText, commentId, commenterName } = props.comment;
+   const { comment, label } = props.comment;
    const classes = useStyles();
 
    return (
       <div className={classes.background}>
-         <div className={classes.username}>{commenterName}</div>
-         <div className={classes.comment}>{commentText}</div>
-         <ReplyButton InnerProps={{className: classes.replybtn}} onClick={props.onReply} />
+         <div className={classes.comment}>{comment}</div>
+         <ReplyButton title="Compose Reply" InnerProps={{className: classes.replybtn}} onClick={() => props.onReply(comment)} />
       </div>
    );
 }

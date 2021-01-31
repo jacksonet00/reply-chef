@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"comment": "Comment 1",
+			"label": "Label1"
+		},
+		{
+			"comment": "Comment 2",
+			"label": "Label2"
+		}
+	],
+	"labels": [
+		"Lable1",
+		"Label2"
+	]
+}

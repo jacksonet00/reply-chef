@@ -19,7 +19,7 @@ const CategoryPill = (props) => {
 
    return (
       <div className={classes.root}>
-         <Chip label={`${category}`} onClick={() => props.onClick(category)} color={`${selected ? 'primary' : ''}`} variant="default" size="medium" style={{
+         <Chip label={`${category}`} onClick={() => props.onClick(category)} color={`${selected ? 'primary' : 'default'}`} variant="default" size="medium" style={{
             fontFamily: 'Poppins',
             fontSize: '16px',
             paddingLeft: '5px',

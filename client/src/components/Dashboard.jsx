@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import CommentView from './ComposerView';
-import ComposerView from './CommentView';
+import CommentView from './CommentView';
 import MenuBar from './MenuBar';
 import { makeStyles } from '@material-ui/core/styles'
 import Footer from './Footer';
+import Composer from './Composer';
 
 const useStyles = makeStyles({
   background: {
@@ -17,22 +17,21 @@ const useStyles = makeStyles({
   }
 });
 
-const categories = ['Beauty', 'Technology', 'News', 'Finance'];
-
-const Dashboard = () => {
+const Dashboard = (props) => {
    const classes = useStyles();
-   const [category, setCategory] = useState('Beauty')
+   const { comments, labels } = props;
+   const [category, setCategory] = useState(labels[0]);
 
    return (
       <div className={classes.background}>
-         <MenuBar category={category} categories={categories} onSelectCategory={(e) => setCategory(e)}/>
+         <MenuBar category={category} categories={labels} onSelectCategory={(e) => setCategory(e)}/>
          <div className={classes.grid}>
-            <ComposerView />
-            <CommentView />
+            <CommentView  category={category} comments={comments} onReply={(e) => props.onReply(e)}/>
+            <Composer onComment={(e) => props.onComment(e)} />
          </div>
          <Footer />
       </div>
    );
 }
 
-export default Dashboard
+export default Dashboard;
