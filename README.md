@@ -15,6 +15,7 @@ Francisco | Jackson | Ryan | Ethan
 As we move further into a digital age interacting with your audience is increasingly important. This is true especially if you're any form of content creator or manage an online business. In almost every medium of online creativity there is a space for people to leave comments. These comments can grow quickly, leaving the frustrated creator in a spot where engagement feels overwhelming. But what if you could change that? What if you coud use machine learning and natural language processing to serve you comments in your feed? Or present relevant forums to the content and questions people have, or even group comments by sentiment? Enter, ReplyChef.
 
 ## How we built it
+![image](images/chef_flow.png)
 
 ## Technologies Used
 - Python 3, NumPy, Pandas, Scikit-learn
