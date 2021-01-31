@@ -16,7 +16,8 @@ As we move further into a digital age interacting with your audience is incerasi
 
 ## Technologies Used
 - Python 3, NumPy, Pandas
-- Google Cloud Platform, Google NPL API, Firebase
+- Google Nautral Language API, Natural Language Toolkit
+- Google Cloud Platform, Firebase
 - React, Javascript
 
 ## Challenges faced
