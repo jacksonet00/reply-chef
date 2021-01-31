@@ -15,6 +15,10 @@ As we move further into a digital age interacting with your audience is incerasi
 ## How we built it
 
 ## Technologies Used
+- Python 3,
+- Javascript, HTML, CSS
+- Numpy, Pandas, Google Cloud, Google NPL
+- React, Material UI
 
 ## Challenges faced
 
