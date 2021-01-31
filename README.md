@@ -12,7 +12,7 @@ Francisco | Jackson | Ryan | Ethan
 
 ## Inspiration
 
-As we move further into a digital age interacting with your audience is incerasingly important. Especially if you're any form of content creator or onine business. In almsot every medium of online creativity there is a space for people to leave comments. These comments can grow quickly leaving the creator in a spot that makes it difficult to engage. But what if you could change that? What if you coud use machine learning and natrual language processing to serve you comments in your feed or forums that are relevent to the content, or questions people have, or group them by sentiment. Enter, ReplyChef.
+As we move further into a digital age interacting with your audience is increasingly important. This is true especially if you're any form of content creator or manage an online business. In almost every medium of online creativity there is a space for people to leave comments. These comments can grow quickly, leaving the frustrated creator in a spot where engagement feels overwhelming. But what if you could change that? What if you coud use machine learning and natural language processing to serve you comments in your feed? Or present relevant forums to the content and questions people have, or even group comments by sentiment? Enter, ReplyChef.
 
 ## How we built it
 
