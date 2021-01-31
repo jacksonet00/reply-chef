@@ -17,7 +17,7 @@ As we move further into a digital age interacting with your audience is incerasi
 ## How we built it
 
 ## Technologies Used
-- Python 3, NumPy, Pandas
+- Python 3, NumPy, Pandas, Scikit-learn
 - Google Nautral Language API, Natural Language Toolkit
 - Google Cloud Platform, Firebase
 - React, Javascript
