@@ -33,7 +33,7 @@ const Footer = (props) => {
 
    return (
       <div className={classes.background} >
-         <GitHubIcon className={classes.github} onClick={() => window.open('https://github.com/jacksonet00/comment-ai')} />
+         <GitHubIcon className={classes.github} onClick={() => window.open('https://github.com/jacksonet00/reply-chef')} />
          <p className={classes.signature} onClick={() => window.open('https://devpost.com/PROJECT')}>Made with <span role="img" aria-label="sheep">❤️</span> at SwampHacks</p>
       </div>
    );
