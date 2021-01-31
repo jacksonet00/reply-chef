@@ -21,7 +21,14 @@ As we move further into a digital age interacting with your audience is incerasi
 - React, Material UI
 
 ## Challenges faced
+- Google Cloud's NLP API only classifies strings with less than 20 words. We solved this challenge by devloping our own classification model using NLTK in order to classify the non-compliant data.
+- YouTube API only allows comments to be pulled after verification with OAuth. To get around this, we used a webscraping bot to pull thousands of comments for training the model.
 
 ## Project Features
+- Classification of comments by category.
+- Creator replies.
 
 ## Future Implementations
+- Integrate OAuth.
+- Allow users to select a video for classification.
+- Send comment replies to YouTube API.
