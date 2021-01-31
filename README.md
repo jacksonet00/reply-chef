@@ -35,3 +35,4 @@ As we move further into a digital age interacting with your audience is incerasi
 - Integrate OAuth.
 - Allow users to select a video for classification.
 - Send comment replies to YouTube API.
+- Use Google Cloud Functions to run model on backend in real time.
