@@ -25,6 +25,7 @@ As we move further into a digital age interacting with your audience is incerasi
 ## Challenges faced
 - Google Cloud's NLP API only classifies strings with less than 20 words. We solved this challenge by devloping our own classification model using NLTK in order to classify the non-compliant data.
 - YouTube API only allows comments to be pulled after verification with OAuth. To get around this, we used a webscraping bot to pull thousands of comments for training the model.
+- Typical machine learning models used for classification, such as logistic regression, were not effective for our data. After some experimentation, we determined that a multinomial naive bayes classification model had the best performance. This model even outperformed popular modern ensemble models such as XGBoost.
 
 ## Project Features
 - Classification of comments by category.
